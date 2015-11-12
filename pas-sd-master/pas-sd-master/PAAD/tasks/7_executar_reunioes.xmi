@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KOS4SV-tiXm3Fo-OQ6NV1g" name="21_executar_reunioes,_ucgRp3-tEd62TNYWta-H0w" guid="-KOS4SV-tiXm3Fo-OQ6NV1g" changeDate="2009-08-02T19:21:55.983-0300">
+  <keyConsiderations>Essa atividade é comum à disciplina de Gerência de Processo das fases de Concepção e Elaboração.</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

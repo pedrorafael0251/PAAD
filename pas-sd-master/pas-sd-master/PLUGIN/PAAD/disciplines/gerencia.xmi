@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Y696_bHMHdMiyTCtzkTblA" name="gerencia,_dihjQHlLEd6Q9KdDavqEGw" guid="-Y696_bHMHdMiyTCtzkTblA" changeDate="2009-08-02T20:53:27.320-0300">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    As atividades na disciplina de Gerência de Processo para a fase de Concepção para os três focos (Ambiente, Cliente e&#xD;
+    Projeto) se aplica da seguinte forma:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Ambiente:&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        Especificar, junto com a equipe, as ferramentas que serão utilizadas afim de encontrar a compatibilidade. Para&#xD;
+        isso, as habilidades de cada um devem ser levadas em consideração para que se utilizem os softwares mais adequados.&#xD;
+        Uma ferramenta só é boa, se você souber utilizar. Quando especificadas, devem ser instaladas e esse processo deve&#xD;
+        ser documentado, para que outras pessoas que não participaram dessas escolhas possam entendê-las.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Cliente&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        Reunir-se com o cliente para capturar tudo que ele pode informar, a relação cliente e equipe deve ser estreita. O&#xD;
+        sistema será entendido à medida que as informações do cliente forem sendo disponibilizadas. Para que seja extraído&#xD;
+        o máximo das reuniões, existirá um trabalhador responsável por documentar os acontecimentos da reunião em Ata. Ao&#xD;
+        fim da iteração, deve ser desenvolvido o&lt;i>Documento de Feedback&lt;/i> (Onde a equipe apresenta o que foi feito e o&#xD;
+        cliente demonstra sua (in)satisfação, oficializando as entregas).&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Projeto&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        O que será realizado durante o tempo será escrito nos planos (ver artefatos abaixo). Planejar é estabelecer metas&#xD;
+        num intervalo de tempo (BECK, 2000). Dado o entendimento do Documento de Visão, o Gerente é capaz de escrever o&#xD;
+        &lt;i>macro&lt;/i>-planejamento no Plano de Desenvolvimento de Software(PDS). Neste documento ele relaciona informações&#xD;
+        importantes como: riscos, escopo, cronograma geral, distribui papéis, registra contatos, estabelece formas de&#xD;
+        comunicação, entre outros. O Plano de Iteração e Integração(Pi&amp;amp;i) cria um&lt;i>micro&lt;/i>-planejamento composto de&#xD;
+        menos informação que o PDS pensado durante uma iteração apenas. Ou seja, toda iteração deve ser planejada e&#xD;
+        documentada no Pi&amp;amp;i. Ambos os documentos devem estar bem escritos para que todos possam lê-los e entendê-los.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

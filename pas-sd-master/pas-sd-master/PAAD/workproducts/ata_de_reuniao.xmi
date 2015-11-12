@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--c1pwEur_D72k54S8_y6NQ" name="ata,_KH53kHpREd6pL8HyHB0u_w" guid="--c1pwEur_D72k54S8_y6NQ" changeDate="2009-07-26T23:26:38.740-0300">
+  <purpose>&lt;p>&#xD;
+    O registro das reuniões em ata&amp;nbsp;possibilita o&amp;nbsp;acompanhamento do que foi acordado entre as partes.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

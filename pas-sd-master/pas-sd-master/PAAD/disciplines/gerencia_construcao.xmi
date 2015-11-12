@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-o1eOgFendaz7w6FMluYYWA" name="gerencia_construcao,_RHmnwHlYEd6Q9KdDavqEGw" guid="-o1eOgFendaz7w6FMluYYWA" changeDate="2009-08-02T23:04:58.293-0300">
+  <mainDescription>&lt;p>&#xD;
+    As atividades dentro dos focos são:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Ambiente&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        Encontra as incompatibilidades entre as ferramentas utilizadas e as trata. A construção utiliza o ambiente&#xD;
+        preparado nas duas fases anteriores e não acrescenta muito ao documento de ambiente.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Cliente&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        As reuniões com o cliente são feitas para entregas de protótipo. O principal artefato a ser entregue&amp;nbsp;são&#xD;
+        os&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/codigos_fontes_9318F22A.html&quot;&#xD;
+        guid=&quot;_bIu7UHpREd6pL8HyHB0u_w&quot;>Códigos Fontes&lt;/a>, então as reuniões devem ser acompanhadas por desenvolvedores&#xD;
+        capacitados (&lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/roles/implementador_testador_33627EFA.html&quot;&#xD;
+        guid=&quot;_3b8ZEH7BEd6MaYaawFYtMQ&quot;>Implementador e Testador&lt;/a>)&amp;nbsp;para explicar em níveis de detalhe o que foi&#xD;
+        produzido. Da mesma forma, são os mais indicados para ouvirem os ajustes finos e rapidamente implementar as&#xD;
+        alterações desejadas.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Projeto&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        A principal atividade deste foco é integrar o que está sendo produzido a cada iteração. Possivelmente, muita&#xD;
+        informação nova será dada ao &lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/roles/gerente_691919DB.html&quot;&#xD;
+        guid=&quot;_OlqUAnmbEd6IMtncZulwRw&quot;>Gerente de Projetos&lt;/a>, pois muitos casos de uso serão detalhados e mudanças podem&#xD;
+        surgir em todo o escopo do projeto. O ciclo de entregas deve ser planejado no &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../pas/workproducts/plan_iteracao_BF0A4C84.html&quot; guid=&quot;_KH53mHpREd6pL8HyHB0u_w&quot;>Plano de Iteração e&#xD;
+        Integração&lt;/a> e as revisões no &lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/plan_des_soft_5C893450.html&quot;&#xD;
+        guid=&quot;_KH53l3pREd6pL8HyHB0u_w&quot;>Plano de Desenvolvimento de Software&lt;/a> serão feitas&amp;nbsp;à medida em que a&#xD;
+        implementação (ou não) dos casos de uso traga alterações ao cronograma.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

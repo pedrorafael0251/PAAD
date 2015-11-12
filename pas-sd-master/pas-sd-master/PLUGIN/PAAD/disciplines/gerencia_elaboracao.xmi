@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-obGVG4KiSkMl-JePNhvAtQ" name="gerencia_elaboracao,_w_k1AHlPEd6Q9KdDavqEGw" guid="-obGVG4KiSkMl-JePNhvAtQ" changeDate="2009-08-02T22:30:37.238-0300">
+  <mainDescription>&lt;p>&#xD;
+    As atividades da disciplina de gerência de processo na Elaboração, nos três focos, ocorrem da seguinte maneira:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Ambiente&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        Especificar e instalar, junto com toda a equipe, o ambiente de desenvolvimento. Este é composto (geralmente) por&#xD;
+        Integrated Development Environment (Ambiente de Desenvolvimento Integrado ou IDE), frameworks, bibliotecas (libs),&#xD;
+        forma de armazenamento persistente (Bancos de Dados, arquivos, XML, etc), software servidor (Servidor de Aplicação,&#xD;
+        Servidor HTTP, etc) e outros itens que por ventura a equipe venha a precisar. Essa atividade é realizada no&#xD;
+        primeiro ponto Especificar ferramentas inerentes ao desenvolvimento. Ele deve também tratar as incompatibilidades,&#xD;
+        como por exemplo duas IDEs especificadas para o time, ou a utilização da ferramenta de acesso ao repositório de&#xD;
+        código. Deve criar uma forma padrão de realização das tarefas utilizando as ferramentas.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Cliente&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        As reuniões com o cliente já devem estar fazendo parte do dia-a-dia dele. A agenda dele já deve estar adequada com&#xD;
+        a da equipe e o relacionamento estreito como programado, obviamente que, na medida do possível. Não se pode esperar&#xD;
+        que todos os clientes sejam pessoas simpáticas e receptivas. Durante a Elaboração, as primeiras reuniões serão&#xD;
+        feitas para adquirir informação sobre os casos de uso de maior risco para poder implementá-los. As reuniões finais&#xD;
+        vão mostrar o protótipo desenvolvido para que na próxima iteração sejam somente aparadas as arestas.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Projeto&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        A execução das atividades de planejamento são realizadas em seus respectivos documentos. O macroplanejamento&#xD;
+        sofrerá mudanças e inclusão de informações não enxergadas inicialmente, gerando revisões no Plano de&#xD;
+        Desenvolvimento de Software(PDS). O microplanejamento faz a próxima iteração ser planejada num novo Plano de&#xD;
+        Iteração e Integração(Pi&amp;amp;i).&amp;nbsp;&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

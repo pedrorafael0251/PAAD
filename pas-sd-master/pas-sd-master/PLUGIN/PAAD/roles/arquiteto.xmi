@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XC9QmKICtyJOojdOXhpk_g" name="new_role,_ecteEH7yEd66CsJhS3fIDw" guid="-XC9QmKICtyJOojdOXhpk_g" changeDate="2009-08-02T00:50:45.101-0300">
+  <mainDescription>&lt;p>&#xD;
+    O Arquiteto&amp;nbsp;estabelece a estrutura geral de cada visão da arquitetura: a decomposição da visão, o agrupamento dos&#xD;
+    elementos e as interfaces entre esses principais agrupamentos.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+  <skills>&lt;p>&#xD;
+    O Arquiteto deve reunir as habilidades do papel&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/roles/projetista_2A96C9F0.html&quot; guid=&quot;_5008AH7BEd6MaYaawFYtMQ&quot;>Projetista&lt;/a> e mais as seguintes:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;u>Experiência&lt;/u> no domínio do problema, conhecendo totalmente os requisitos, e no domínio de Engenharia de&#xD;
+        Software&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;u>Liderança&lt;/u>, para conduzir o esforço técnic entre os membros da equipe, tomar decisões importantes sob pressão&#xD;
+        e fazer com que essas decisões sejam cumpridas à risca (é importante o Arquiteto trabalhar junto com o &lt;a&#xD;
+        class=&quot;elementLink&quot; href=&quot;./../../pas/roles/gerente_691919DB.html&quot; guid=&quot;_OlqUAnmbEd6IMtncZulwRw&quot;>Gerente de&#xD;
+        Projetos&lt;/a>. Nesse caso o Arquiteto é responsável pelas decisões técnicas enquanto o gerente é responsável pelas&#xD;
+        decisões administrativas)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;u>Comunicação&lt;/u>, para conquistar confiança, persuadir, motivar e servir como mentor&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;u>Orientação&lt;/u> por metas e pró-atividade com enfoque dos resultados&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></skills>
+</org.eclipse.epf.uma:RoleDescription>

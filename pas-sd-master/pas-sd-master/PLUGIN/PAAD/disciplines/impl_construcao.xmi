@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IoPBx4uf6-CqdP8YihEvAA" name="impl_construcao,_NwuLgHlYEd6Q9KdDavqEGw" guid="-IoPBx4uf6-CqdP8YihEvAA" changeDate="2009-08-02T22:57:12.178-0300">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>A primeira atividade da disciplina&amp;nbsp;é o planjamento da integração a ser realizada&#xD;
+    ao final da&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>mesma. Em seguida, os componentes identificados na disciplina&#xD;
+    anterior, serão divididos dentro&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>da equipe de desenvolvimento, de maneiras que a&#xD;
+    codificação dos mesmos ocorra de maneira&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>paralela.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>A codificação ocorre da mesma maneira que na fase anterior, sendo inicialmente&#xD;
+    constru&lt;/font>í&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>dos os testes unitários e em seguida, implementado e testado o&#xD;
+    componente. Caso erros&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>sejam encontrados após os testes, o componente&amp;nbsp;é&#xD;
+    implementado novamente, para que os erros&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>possam ser corrigidos. A iteração&#xD;
+    acaba quando todos os componentes para o caso de uso forem&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>integrados ao&#xD;
+    sistema. Em cada iteração dentro da fase, será implementado um caso de uso.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

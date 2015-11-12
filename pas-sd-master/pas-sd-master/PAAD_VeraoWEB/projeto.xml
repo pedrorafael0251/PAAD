@@ -1,0 +1,2477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project xmlns="http://epf.eclipse.org/msproject">
+  <Name>paad</Name>
+  <Company>Eclipse.org</Company>
+  <Author></Author>
+  <CreationDate>2014-09-11T19:23:45</CreationDate>
+  <LastSaved>2014-09-11T19:23:45</LastSaved>
+  <ScheduleFromStart>1</ScheduleFromStart>
+  <StartDate>2014-09-11T19:23:45</StartDate>
+  <FinishDate>2014-09-11T19:23:45</FinishDate>
+  <FYStartDate>1</FYStartDate>
+  <CriticalSlackLimit>0</CriticalSlackLimit>
+  <CurrencyDigits>2</CurrencyDigits>
+  <CurrencySymbol>$</CurrencySymbol>
+  <CurrencySymbolPosition>0</CurrencySymbolPosition>
+  <CalendarUID>1</CalendarUID>
+  <DefaultStartTime>08:00:00</DefaultStartTime>
+  <DefaultFinishTime>17:00:00</DefaultFinishTime>
+  <MinutesPerDay>480</MinutesPerDay>
+  <MinutesPerWeek>2400</MinutesPerWeek>
+  <DaysPerMonth>20</DaysPerMonth>
+  <DefaultTaskType>0</DefaultTaskType>
+  <DefaultFixedCostAccrual>3</DefaultFixedCostAccrual>
+  <DefaultStandardRate>0.0</DefaultStandardRate>
+  <DefaultOvertimeRate>0.0</DefaultOvertimeRate>
+  <DurationFormat>7</DurationFormat>
+  <WorkFormat>2</WorkFormat>
+  <EditableActualCosts>0</EditableActualCosts>
+  <HonorConstraints>0</HonorConstraints>
+  <InsertedProjectsLikeSummary>1</InsertedProjectsLikeSummary>
+  <MultipleCriticalPaths>0</MultipleCriticalPaths>
+  <NewTasksEffortDriven>1</NewTasksEffortDriven>
+  <NewTasksEstimated>1</NewTasksEstimated>
+  <SplitsInProgressTasks>1</SplitsInProgressTasks>
+  <SpreadActualCost>0</SpreadActualCost>
+  <SpreadPercentComplete>0</SpreadPercentComplete>
+  <TaskUpdatesResource>1</TaskUpdatesResource>
+  <FiscalYearStart>0</FiscalYearStart>
+  <WeekStartDay>0</WeekStartDay>
+  <MoveCompletedEndsBack>0</MoveCompletedEndsBack>
+  <MoveRemainingStartsBack>0</MoveRemainingStartsBack>
+  <MoveRemainingStartsForward>0</MoveRemainingStartsForward>
+  <MoveCompletedEndsForward>0</MoveCompletedEndsForward>
+  <BaselineForEarnedValue>0</BaselineForEarnedValue>
+  <AutoAddNewResourcesAndTasks>1</AutoAddNewResourcesAndTasks>
+  <CurrentDate>2006-02-10T08:00:00</CurrentDate>
+  <MicrosoftProjectServerURL>1</MicrosoftProjectServerURL>
+  <Autolink>1</Autolink>
+  <NewTaskStartDate>0</NewTaskStartDate>
+  <DefaultTaskEVMethod>0</DefaultTaskEVMethod>
+  <ProjectExternallyEdited>0</ProjectExternallyEdited>
+  <ExtendedCreationDate>1984-01-01T00:00:00</ExtendedCreationDate>
+  <ActualsInSync>1</ActualsInSync>
+  <RemoveFileProperties>0</RemoveFileProperties>
+  <AdminProject>0</AdminProject>
+  <OutlineCodes/>
+  <WBSMasks/>
+  <ExtendedAttributes/>
+  <Calendars>
+    <Calendar>
+      <UID>1</UID>
+      <Name>Standard</Name>
+      <IsBaseCalendar>1</IsBaseCalendar>
+      <BaseCalendarUID>-1</BaseCalendarUID>
+      <WeekDays>
+        <WeekDay>
+          <DayType>1</DayType>
+          <DayWorking>0</DayWorking>
+        </WeekDay>
+        <WeekDay>
+          <DayType>2</DayType>
+          <DayWorking>1</DayWorking>
+          <WorkingTimes>
+            <WorkingTime>
+              <FromTime>08:00:00</FromTime>
+              <ToTime>12:00:00</ToTime>
+            </WorkingTime>
+            <WorkingTime>
+              <FromTime>13:00:00</FromTime>
+              <ToTime>17:00:00</ToTime>
+            </WorkingTime>
+          </WorkingTimes>
+        </WeekDay>
+        <WeekDay>
+          <DayType>3</DayType>
+          <DayWorking>1</DayWorking>
+          <WorkingTimes>
+            <WorkingTime>
+              <FromTime>08:00:00</FromTime>
+              <ToTime>12:00:00</ToTime>
+            </WorkingTime>
+            <WorkingTime>
+              <FromTime>13:00:00</FromTime>
+              <ToTime>17:00:00</ToTime>
+            </WorkingTime>
+          </WorkingTimes>
+        </WeekDay>
+        <WeekDay>
+          <DayType>4</DayType>
+          <DayWorking>1</DayWorking>
+          <WorkingTimes>
+            <WorkingTime>
+              <FromTime>08:00:00</FromTime>
+              <ToTime>12:00:00</ToTime>
+            </WorkingTime>
+            <WorkingTime>
+              <FromTime>13:00:00</FromTime>
+              <ToTime>17:00:00</ToTime>
+            </WorkingTime>
+          </WorkingTimes>
+        </WeekDay>
+        <WeekDay>
+          <DayType>5</DayType>
+          <DayWorking>1</DayWorking>
+          <WorkingTimes>
+            <WorkingTime>
+              <FromTime>08:00:00</FromTime>
+              <ToTime>12:00:00</ToTime>
+            </WorkingTime>
+            <WorkingTime>
+              <FromTime>13:00:00</FromTime>
+              <ToTime>17:00:00</ToTime>
+            </WorkingTime>
+          </WorkingTimes>
+        </WeekDay>
+        <WeekDay>
+          <DayType>6</DayType>
+          <DayWorking>1</DayWorking>
+          <WorkingTimes>
+            <WorkingTime>
+              <FromTime>08:00:00</FromTime>
+              <ToTime>12:00:00</ToTime>
+            </WorkingTime>
+            <WorkingTime>
+              <FromTime>13:00:00</FromTime>
+              <ToTime>17:00:00</ToTime>
+            </WorkingTime>
+          </WorkingTimes>
+        </WeekDay>
+        <WeekDay>
+          <DayType>7</DayType>
+          <DayWorking>0</DayWorking>
+        </WeekDay>
+      </WeekDays>
+    </Calendar>
+  </Calendars>
+  <Tasks>
+    <Task>
+      <UID>0</UID>
+      <ID>0</ID>
+      <Type>1</Type>
+      <IsNull>0</IsNull>
+      <CreateDate>2006-02-10T14:36:00</CreateDate>
+      <WBS>0</WBS>
+      <OutlineNumber>0</OutlineNumber>
+      <OutlineLevel>0</OutlineLevel>
+      <Priority>500</Priority>
+      <Start>2006-02-10T08:00:00</Start>
+      <Finish>2006-02-10T08:00:00</Finish>
+      <Duration>PT0H0M0S</Duration>
+      <DurationFormat>53</DurationFormat>
+      <Work>PT0H0M0S</Work>
+      <ResumeValid>0</ResumeValid>
+      <EffortDriven>0</EffortDriven>
+      <Recurring>0</Recurring>
+      <OverAllocated>0</OverAllocated>
+      <Estimated>1</Estimated>
+      <Milestone>0</Milestone>
+      <Summary>1</Summary>
+      <Critical>1</Critical>
+      <IsSubproject>0</IsSubproject>
+      <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+      <ExternalTask>0</ExternalTask>
+      <EarlyStart>2006-02-10T08:00:00</EarlyStart>
+      <EarlyFinish>2006-02-10T08:00:00</EarlyFinish>
+      <LateStart>2006-02-10T08:00:00</LateStart>
+      <LateFinish>2006-02-10T08:00:00</LateFinish>
+      <StartVariance>0</StartVariance>
+      <FinishVariance>0</FinishVariance>
+      <WorkVariance>0.0</WorkVariance>
+      <FreeSlack>0</FreeSlack>
+      <TotalSlack>0</TotalSlack>
+      <FixedCost>0.0</FixedCost>
+      <FixedCostAccrual>3</FixedCostAccrual>
+      <PercentComplete>0</PercentComplete>
+      <PercentWorkComplete>0</PercentWorkComplete>
+      <Cost>0</Cost>
+      <OvertimeCost>0</OvertimeCost>
+      <OvertimeWork>PT0H0M0S</OvertimeWork>
+      <ActualDuration>PT0H0M0S</ActualDuration>
+      <ActualCost>0</ActualCost>
+      <ActualOvertimeCost>0</ActualOvertimeCost>
+      <ActualWork>PT0H0M0S</ActualWork>
+      <ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
+      <RegularWork>PT0H0M0S</RegularWork>
+      <RemainingDuration>PT0H0M0S</RemainingDuration>
+      <RemainingCost>0</RemainingCost>
+      <RemainingWork>PT0H0M0S</RemainingWork>
+      <RemainingOvertimeCost>0</RemainingOvertimeCost>
+      <RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
+      <ACWP>0.0</ACWP>
+      <CV>0.0</CV>
+      <ConstraintType>0</ConstraintType>
+      <CalendarUID>-1</CalendarUID>
+      <LevelAssignments>1</LevelAssignments>
+      <LevelingCanSplit>1</LevelingCanSplit>
+      <LevelingDelay>0</LevelingDelay>
+      <LevelingDelayFormat>8</LevelingDelayFormat>
+      <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+      <HideBar>0</HideBar>
+      <Rollup>0</Rollup>
+      <BCWS>0.0</BCWS>
+      <BCWP>0.0</BCWP>
+      <PhysicalPercentComplete>0</PhysicalPercentComplete>
+      <EarnedValueMethod>0</EarnedValueMethod>
+      <ActualWorkProtected>PT0H0M0S</ActualWorkProtected>
+      <ActualOvertimeWorkProtected>PT0H0M0S</ActualOvertimeWorkProtected>
+    </Task>
+    <Task>
+      <UID>1</UID>
+      <ID>1</ID>
+      <Name>Processo Acadêmico Ágil Distribuído - PAAD</Name>
+      <Type>0</Type>
+      <OutlineLevel>1</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/paad_740E5F57.html</HyperlinkAddress>
+      <Notes>O Processo Acadêmico Ágil Distribuído- PAAD - é um processo iterativo e incremental Ágil baseado nas práticas do Processo Unificado e da modelagem ágil para o projeto de Software Distribuído.</Notes>
+    </Task>
+    <Task>
+      <UID>2</UID>
+      <ID>2</ID>
+      <Name>Concepção</Name>
+      <Type>0</Type>
+      <OutlineLevel>2</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/Concepção_757F1E16.html</HyperlinkAddress>
+      <Notes>A fase de concepção busca uma visão inicial para se trabalhar o sistema, deixando como resultado, a clara visualização do sistema a ser desenvolvido (seu escopo, seus principais requisitose desejos do cliente). Todas as atividades desenvolvidas nesta fase têm este fim, e para tanto necessitam da participação ativa do cliente. Trata-se de uma fase marcada por reuniões e discussões onde inicialmente o cliente apresenta sua visão do sistema, e num segundo momento os projetistas apresentam a visão que puderam capturar do mesmo.</Notes>
+    </Task>
+    <Task>
+      <UID>3</UID>
+      <ID>3</ID>
+      <Name>Requisitos Concepção</Name>
+      <Type>0</Type>
+      <OutlineLevel>3</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/requisitos_concepcao_3C49BEB.html</HyperlinkAddress>
+      <Notes>A disciplina de requisitos na fase de Concepção é aquela onde se gastará maior tempo e esforço. Ela se inicia com a definição do projeto e termina com a breve descrição dos casos de uso.</Notes>
+    </Task>
+    <Task>
+      <UID>4</UID>
+      <ID>4</ID>
+      <Name>Cliente Define o Projeto a ser Desenvolvido</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/1_definir_projeto_E546E0D.html</HyperlinkAddress>
+      <Notes>A definição do projeto ocorre através de uma entrevista com o cliente, onde o mesmo expõe&#xD;
+o problema que deseja solucionar. Se o problema for entendido pela equipe de desenvolvimento,&#xD;
+passa-se para a definição do escopo, senão entrevista-se novamente o cliente, até que se tenha&#xD;
+entendimento do problema.</Notes>
+    </Task>
+    <Task>
+      <UID>5</UID>
+      <ID>5</ID>
+      <Name>Definir Escopo do Problema</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/2_definir_escopo_18F24E1D.html</HyperlinkAddress>
+      <Notes>Com o problema entendido, o seu escopo é definido. Esse escopo define o trabalho necessário para concluir o projeto, servindo como um guia (ou ponto de referência) para determinar que trabalho não está incluído ou não é necessário) no projeto. Ou seja, após sua definição, sabe-se o que está dentro e o que está fora do projeto, de maneira clara e sem ambiguidades.</Notes>
+    </Task>
+    <Task>
+      <UID>6</UID>
+      <ID>6</ID>
+      <Name>Definir Funcionalidades e as Restrições do Sistema</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/3_definir_funcionalidades_78B6233.html</HyperlinkAddress>
+      <Notes>Dentro do escopo delimitado, são definidas as funcionalidades e restrições do sistema.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>5</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>7</UID>
+      <ID>7</ID>
+      <Name>Dividir o Problema em Casos de Uso</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/4_dividir_em_cdus_706537F8.html</HyperlinkAddress>
+      <Notes>Após a definição das funcionalidades do sistema, estas são divididas em Casos de Uso. Esta atividade co-relaciona-se com a atividade de análise e projeto onde é construído o modelo de casos de uso.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>6</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>8</UID>
+      <ID>8</ID>
+      <Name>Classificar Casos de Uso por Módulo de Sistema </Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/5_classificar_cdus_D2E6502C.html</HyperlinkAddress>
+      <Notes>Os casos de uso são classificados associoandos com as funcinalidades do sistema.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>7</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>9</UID>
+      <ID>9</ID>
+      <Name>Descrever Brevemente Casos de Uso</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/6_descrever_cdus_DD84303C.html</HyperlinkAddress>
+      <Notes>Após a classificação quanto a funcionalidade, descreve-se brevemente os casos de uso, identificando os atores que o executam.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>8</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>10</UID>
+      <ID>10</ID>
+      <Name>Análise e Projeto Concepção</Name>
+      <Type>0</Type>
+      <OutlineLevel>3</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/analise_projeto_concepcao_D5AF3EEE.html</HyperlinkAddress>
+      <Notes>Grande parte do esforc¸o da fase de concepção para definir uma arquitetura candidata concentra-se na disciplina de análise e projeto. Ela se inicia com a análise do ambiente físico e computacional e das restrições citadas pelo cliente, e é finalizada com a definição da arquitetura candidata.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>3</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>11</UID>
+      <ID>11</ID>
+      <Name>Analisar Modelo de Caso de Uso</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/7_analisar_mod_cdu_EC3004B8.html</HyperlinkAddress>
+      <Notes>Essa atividade tem por objetivo verificar alguma possível incompatibilidade entre o modelo de casos de uso e as necessidades do cliente. Caso alguma incompatibilidade seja encontrada, ajusta-se o modelo de casos de uso.</Notes>
+    </Task>
+    <Task>
+      <UID>12</UID>
+      <ID>12</ID>
+      <Name>Reunir Equipe e Cliente para Avaliação da Arquitetura Candidata</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/8_reunir_equipe_5509DA7D.html</HyperlinkAddress>
+      <Notes>Com o modelo de casos de uso refletindo as reais necessidade do cliente, é feita uma reunião entre equipe de desenvolvimento e cliente, com a finalidade de avaliar a Arquitetura Candidata. </Notes>
+      <PredecessorLink>
+        <PredecessorUID>11</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>13</UID>
+      <ID>13</ID>
+      <Name>Definir Arquitetura (Documento de Arquitetura do Sistema)</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/9_elaborar_doc_arq_B78AF2B1.html</HyperlinkAddress>
+      <Notes>Caso cliente e equipe estejam de acordo, elabora-se o esboço da arquitetura candidata. Caso contrário, é realizada uma nova análise do modelo de casos de uso, ajustando-se o que for necessário, sendo apresentada a arquitetura em uma nova reunião. Tais atividades se repetem até que cliente e equipe de desenvolvimento entrem em acordo.</Notes>
+    </Task>
+    <Task>
+      <UID>14</UID>
+      <ID>14</ID>
+      <Name>Implementação e Testes Concepção</Name>
+      <Type>0</Type>
+      <OutlineLevel>3</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/impl_testes_concepcao_6299D380.html</HyperlinkAddress>
+      <Notes>O objetivo da implementação e teste na fase de concepção é a confecção do protótipo das principais telas do sistema. </Notes>
+      <PredecessorLink>
+        <PredecessorUID>10</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>15</UID>
+      <ID>15</ID>
+      <Name>Confeccionar um Protótipo contendo as Telas Iniciais do Novo Sistema</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/10_confeccionar_prototipo_7006FC27.html</HyperlinkAddress>
+      <Notes>A partir das telas capturadas (em caso de sistema legado) ou da coleta das necessidades de usabilidade do cliente, deve-se confeccionar o protótipo da interface de usuário.</Notes>
+    </Task>
+    <Task>
+      <UID>16</UID>
+      <ID>16</ID>
+      <Name>Gerência de Processo Concepção</Name>
+      <Type>0</Type>
+      <OutlineLevel>3</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/gerencia_concepcao_14EC4189.html</HyperlinkAddress>
+      <Notes>Na fase de concepção, a disciplina de Planejamento e Gerência é uma das que consome mais tempo. A principal preocupação do Gerente tem que ser criar um plano que seja bem real, com menor taxa de falhas na medida do possível.</Notes>
+    </Task>
+    <Task>
+      <UID>17</UID>
+      <ID>17</ID>
+      <Name>Especificar Sistema Operacional</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/1_especificar_so_1F8961D.html</HyperlinkAddress>
+      <Notes>Definir o Sistema Operacional que será utilizado no desenvolvimento.</Notes>
+    </Task>
+    <Task>
+      <UID>18</UID>
+      <ID>18</ID>
+      <Name>Especificar Ferramentas de Escritório</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/2_especificar_ferramentas_C96762D.html</HyperlinkAddress>
+      <Notes>Especificação das Ferramentas que serão utilizadas no desenvolvimento.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>17</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>19</UID>
+      <ID>19</ID>
+      <Name>Especificar Ferramenta da Gerência</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/3_especif_fer_ger_FB2F8A43.html</HyperlinkAddress>
+      <Notes>Decide-se por uma ferramenta de gerenciamento do projeto para monitorar e coordenar o desenvolvimento.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>18</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>20</UID>
+      <ID>20</ID>
+      <Name>Instalar e/ou Configurar as Ferramentas</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/4_inst_ferramentas_C68A783C.html</HyperlinkAddress>
+      <Notes>Decididas as ferramentas a serem utilizadas, as mesmas são instaladas no ambiente de desenvolvimento.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>19</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>21</UID>
+      <ID>21</ID>
+      <Name>Escrever Documento de Ambiente</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/5_escrever_doc_amb_D128584C.html</HyperlinkAddress>
+      <Notes>Especificadas e instaladas todas as ferramentas necessárias, escreve-se o documento de ambiente.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>20</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>22</UID>
+      <ID>22</ID>
+      <Name>Planejar Reuniões com o Cliente</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/6_plan_reunioes_cliente_BFC16C62.html</HyperlinkAddress>
+      <Notes>São planejadas reuniões com o cliente para expor os resultados da iteração.</Notes>
+    </Task>
+    <Task>
+      <UID>23</UID>
+      <ID>23</ID>
+      <Name>Executar Reuniões com o Cliente</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/7_executar_reunioes_289B4227.html</HyperlinkAddress>
+      <Notes>São realizadas reuniões com o cliente ao final da iteração para apresentação dos resultados e coleta do feedback.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>22</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>24</UID>
+      <ID>24</ID>
+      <Name>Registrar Reuniões em Ata de Reunião</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/8_registrar_em_ata_8B1C5A5B.html</HyperlinkAddress>
+      <Notes>Todas as ocorrências durante a reunião são registrada em Ata de Reunião.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>22</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>25</UID>
+      <ID>25</ID>
+      <Name>Execução da Disciplina de Requisitos</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/9_executar_requisitos_95BA3A6B.html</HyperlinkAddress>
+      <Notes>Essa atividade ocorre em paralelo com a execução da reunião com o cliente e tem o objetivo de observar se os requisitos mapeados estão em conformidade com os requsisitos do cliente.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>22</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>26</UID>
+      <ID>26</ID>
+      <Name>Apresentar Artefatos ao Cliente</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/12_apresentar_artefatos_84534E81.html</HyperlinkAddress>
+      <Notes>Os artefatos gerados durante a fase de Concepção são, nessa atividade, apresentados ao cliente.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>24</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+      <PredecessorLink>
+        <PredecessorUID>25</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>27</UID>
+      <ID>27</ID>
+      <Name>Execução da Disciplina de Requisitos Sobre o Documento de Visão</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/13_exec_req_doc_visao_4FAE3C7A.html</HyperlinkAddress>
+      <Notes>A partir da análise do Documento de Visão, observa-se se o mesmo está em conformidade com os requisitos mapeados. Se houver alterações de requisitos ou necessidades de ajustes, essa atividade é realizada.</Notes>
+    </Task>
+    <Task>
+      <UID>28</UID>
+      <ID>28</ID>
+      <Name>Desenvolver Plano de Desenvolvimento de Software (PDS)</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/14_desenvolver_plan_des_soft_5A4C1C8A.html</HyperlinkAddress>
+      <Notes>De posse de todos os insumos necessários ao início do projeto, elabora-se o Plano de Desenvolvimento de Software.</Notes>
+    </Task>
+    <Task>
+      <UID>29</UID>
+      <ID>29</ID>
+      <Name>Desenvolver Plano de Iteração e Integração (PI&amp;I)</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/15_desenvolver_plan_iteracao_48E530A0.html</HyperlinkAddress>
+      <Notes>A partir das iterações definidas no Plano de Desenvolvimento de Software, elabora-se o Plano de Iteração e Integração para a próxima iteração do desenvolvimento.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>28</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>30</UID>
+      <ID>30</ID>
+      <Name>Planejar Reuniões Diárias para equipe</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/Planejar Reuniões Diárias com Equipe do Projeto_25556FA7.html</HyperlinkAddress>
+    </Task>
+    <Task>
+      <UID>31</UID>
+      <ID>31</ID>
+      <Name>Elaboração</Name>
+      <Type>0</Type>
+      <OutlineLevel>2</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/Elaboração_24FFB03.html</HyperlinkAddress>
+      <Notes>O propósito da Fase de Elaboração é analisar o domínio do problema, validar uma arquitetura consistente, onde o sistema será desenvolvido, e desenvolver o plano de projeto. Embora o processo sempre tenha que acomodar mudanças, as atividades desta fase asseguram que a arquitetura, requisitos e planos são bastante estáveis, podendo-se então, determinar o custo de maneira previsível e programar a conclusão do desenvolvimento.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>2</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>32</UID>
+      <ID>32</ID>
+      <Name>Requisitos Elaboração</Name>
+      <Type>0</Type>
+      <OutlineLevel>3</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/requisitos_elaboracao_906D359E.html</HyperlinkAddress>
+      <Notes>O foco da Disciplina de Requisitos na Fase de Elaboração é o detalhamento inicial dos prováveis casos de uso que poderão ser utilizados para validar a arquitetura.</Notes>
+    </Task>
+    <Task>
+      <UID>33</UID>
+      <ID>33</ID>
+      <Name>Escolher Casos de Uso para Validar a Arquitetura</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/1_escolher_cdus_FF559BF3.html</HyperlinkAddress>
+      <Notes>Antes de inciar o detalhamento, são escolhidos os casos de uso que poderão ser desenvolvidos para validar a arquiterura. Essa escolha é feita levando-se em consideração a complexidade e a abragência do caso de uso em relação à arquitetura. Mais de uma caso de uso é escolhido, pois&#xD;
+o seu detalhamento é quem vai definir qual deles é o mais adequado para realizar a validação da arquitetura.</Notes>
+    </Task>
+    <Task>
+      <UID>34</UID>
+      <ID>34</ID>
+      <Name>Iniciar implementação do (s) Caso (s) de Uso Escolhido (s) para Validar Arquitetura</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/2_Implementar_cdu_escolhido_Arquitetura_9F37C03.html</HyperlinkAddress>
+      <Notes>Após escolhidos os casos de uso, é realizado a implementação . A partir do  Documento de Especificação de Caso de Uso, que contém as informações necessárias será implementado para validar a arquitetura proposta.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>33</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+      <PredecessorLink>
+        <PredecessorUID>35</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>35</UID>
+      <ID>35</ID>
+      <Name>Consultar ou Entrevistar Cliente</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/3_consultar_cliente_F88C9019.html</HyperlinkAddress>
+      <Notes>Caso venham a surgir dúvidas, inseguranças ou inconsistências no detalhamento, o cliente será entrevistado ou consultado por algum meio de comunicação. Após sanar a dúvida, realiza-se novamente a primeira atividade, ajustando o que for necessário.</Notes>
+    </Task>
+    <Task>
+      <UID>36</UID>
+      <ID>36</ID>
+      <Name>Identificar Mudanças nos Requisitos</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/4_identificar_mudancas_requisitos_616665DE.html</HyperlinkAddress>
+      <Notes>Após detalhar o caso de uso, é feita uma revisão nos requisitos, o que pode ocasionar necessidade de alterações nos requisitos.</Notes>
+    </Task>
+    <Task>
+      <UID>37</UID>
+      <ID>37</ID>
+      <Name>Atualizar Diagrama de Casos de Uso e de Classes</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/5_atualizar_diagramas_cdus_classes_C3E77E12.html</HyperlinkAddress>
+      <Notes>Se houver mudanças de requisitos após a atividade anterior, que acarrete a necessidade de surgimento de novo caso de uso, o mesmo é acrescentado ao diagrama geral de casos de uso, isso vale para o digrama de classe do sistema também.</Notes>
+    </Task>
+    <Task>
+      <UID>38</UID>
+      <ID>38</ID>
+      <Name>Atualizar Documento de Visão e de Arquitetura de acordo com as mudanças propostas.</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/6_atualizar_doc_visao_arquitetura_CE855E22.html</HyperlinkAddress>
+      <Notes>Se forem encontradas mudanças que não impliquem em novo caso de uso, altera-se apenas o documento de visão.&#xD;
+Tendo ocorrido necessidade de ajuste da arquitetura, procede-se à atualização do documento de arquitetura.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>37</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>39</UID>
+      <ID>39</ID>
+      <Name>Realizar Análise e Projeto</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/10_realizar_analise_e_projeto_BD1E7238.html</HyperlinkAddress>
+      <Notes>Concluídas todas as atividades desse fluxo, dá-se início à disciplina de análise e projeto.</Notes>
+    </Task>
+    <Task>
+      <UID>40</UID>
+      <ID>40</ID>
+      <Name>Análise e Projeto Elaboração</Name>
+      <Type>0</Type>
+      <OutlineLevel>3</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/analise_projeto_elaboracao_45AAA1BA.html</HyperlinkAddress>
+      <Notes>A disciplina de Análise e Projeto desempenha um papel importante para que o objetivo da fase de Elaboração seja atingido. Ela é quem dá forma ao domínio do sistema, gerando um modelo conceitual orientado pelos casos de uso. Modelos estáticos e dinâmicos são formulados e servirão como base para a implementação.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>32</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>41</UID>
+      <ID>41</ID>
+      <Name>Revisar Documento de Visão, Arquitetura e Especificação de Casos de Uso</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/13_revisar_doc_visao_Arquitetura_Especificações_6C3BF65F.html</HyperlinkAddress>
+      <Notes>Essa revisão possibilita uma escolha mais adequada do caso de uso a ser utilizado na validação da arquitetura.</Notes>
+    </Task>
+    <Task>
+      <UID>42</UID>
+      <ID>42</ID>
+      <Name>Elaborar Diagrama de Interação de Objetos</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/7_elaborar_diagrama_de_interacao_2A04CCA4.html</HyperlinkAddress>
+      <Notes>Após identificados os conceitos e operações do Caso de Uso selecionado, procede-se à elaboração do diagrama de interação de objetos do mesmo.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>46</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>43</UID>
+      <ID>43</ID>
+      <Name>Realizar a Disciplina de Implementação e Teste para o Caso de Uso Selecionado da SPRINT</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/11_implementar_cdu_F55FBA9D.html</HyperlinkAddress>
+      <Notes>Realiza-se Implementação e teste do Caso de Uso detalhado para a SPRINT, a fim de confirmar se o mesmo valida a arquitetura com sucesso.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>42</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>44</UID>
+      <ID>44</ID>
+      <Name>Ajustar a Arquitetura</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/9_ajustar_arq_FFFD9AAD.html</HyperlinkAddress>
+      <Notes>Se houver possibilidade de ajustar a arquitetura para a implementação do caso de uso detalhado, sem a necessidade de redefinição da mesma, executa-se essa atividade.</Notes>
+    </Task>
+    <Task>
+      <UID>45</UID>
+      <ID>45</ID>
+      <Name>Redefinir toda a Arquitetura</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/8_redefinir_arq_EE96AEC3.html</HyperlinkAddress>
+      <Notes>Se após a implementação do caso de uso detalhado, identificar-se que não houve validação da arquitetura, executa-se essa atividade.</Notes>
+    </Task>
+    <Task>
+      <UID>46</UID>
+      <ID>46</ID>
+      <Name>Escolher Casos de Usos para Validar a Arquitetura</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/New Task Descriptor_1F34E95E.html</HyperlinkAddress>
+      <PredecessorLink>
+        <PredecessorUID>45</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+      <PredecessorLink>
+        <PredecessorUID>47</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>47</UID>
+      <ID>47</ID>
+      <Name>Iniciar o Detalhamento dos Casos de Usos</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/New Task Descriptor_2_59A2690.html</HyperlinkAddress>
+    </Task>
+    <Task>
+      <UID>48</UID>
+      <ID>48</ID>
+      <Name>Implementação e Testes Elaboração</Name>
+      <Type>0</Type>
+      <OutlineLevel>3</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/impl_testes_elaboracao_5824897C.html</HyperlinkAddress>
+      <Notes>Nas disciplinas anteriores, o caso de uso que justifica toda a Arquitetura foi detalhado, analisado e projetado. Cabe agora a implementação e teste do mesmo. Ao final dessa disciplina, o caso de uso deverá ter sido construído seguindo a arquitetura planejada no documento de arquitetura.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>40</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>49</UID>
+      <ID>49</ID>
+      <Name>Iniciar implementação do (s) Caso (s) de Uso Escolhido (s) para Validar Arquitetura</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/New Task Descriptor_4F7A5F27.html</HyperlinkAddress>
+      <PredecessorLink>
+        <PredecessorUID>51</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>50</UID>
+      <ID>50</ID>
+      <Name>Escolher Casos de Uso para Validar a Arquitetura</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/New Task Descriptor_2_A9F735CD.html</HyperlinkAddress>
+    </Task>
+    <Task>
+      <UID>51</UID>
+      <ID>51</ID>
+      <Name>Realizar a Disciplina de Implementação e Teste para o Caso de Uso Selecionado da SPRINT</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/New Task Descriptor_3_F472548E.html</HyperlinkAddress>
+      <PredecessorLink>
+        <PredecessorUID>50</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>52</UID>
+      <ID>52</ID>
+      <Name>Executar Implementação do Projeto</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/New Task Descriptor_4_59383B6A.html</HyperlinkAddress>
+      <PredecessorLink>
+        <PredecessorUID>49</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>53</UID>
+      <ID>53</ID>
+      <Name>Gerência de Processo Elaboração</Name>
+      <Type>0</Type>
+      <OutlineLevel>3</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/gerencia_elaboracao_8BE78703.html</HyperlinkAddress>
+      <Notes>Durante a Elaboração, e futuramente na Construção, o Gerente trabalha para seguir o plano que foi inicialmente traçado. Dessa forma, é possível dizer que ele realiza apenas pequenos ajustes no macro planejamento inicial.</Notes>
+    </Task>
+    <Task>
+      <UID>54</UID>
+      <ID>54</ID>
+      <Name>Especificar Ferramentas Inerentes ao Desenvolvimento</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/16_especificar_ferramentas_desenv_6C8C1F72.html</HyperlinkAddress>
+      <Notes>São especificadas as ferramentas de desenvolvimento , que são as Integrated Development Environment (Ambiente de Desenvolvimento Integrado ou IDE), frameworks, bibliotecas (libs), forma de armazenamento persistente (Bancos de Dados, arquivos, XML, etc), software servidor (Servidor de Aplicação, Servidor HTTP, etc) e outros itens que por ventura a equipe venha a precisar.</Notes>
+    </Task>
+    <Task>
+      <UID>55</UID>
+      <ID>55</ID>
+      <Name>Instalar e/ou Configurar Softwares e Bibliotecas</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/17_instalar_soft_bib_5B253388.html</HyperlinkAddress>
+      <Notes>Após especificadas as ferramentas necessárias ao desenvolvimento, as mesmas são instaladas no ambiente de desenvolvimento para serem utilizadas pela equipe. É importante que haja uma forma padrão de realização das tarefas utilizando as ferramentas.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>54</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>56</UID>
+      <ID>56</ID>
+      <Name>Escrever Documento de Ambiente</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/5_escrever_doc_amb_C3FF094D.html</HyperlinkAddress>
+      <Notes>Especificadas e instaladas todas as ferramentas necessárias, escreve-se o documento de ambiente.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>55</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>57</UID>
+      <ID>57</ID>
+      <Name>Executar Reuniões com o Cliente</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/7_executar_reunioes_26802181.html</HyperlinkAddress>
+      <Notes>São realizadas reuniões com o cliente ao final da iteração para apresentação dos resultados e coleta do feedback.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>63</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>58</UID>
+      <ID>58</ID>
+      <Name>Registrar Reuniões em Ata de Reunião</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/8_registrar_em_ata_311E0191.html</HyperlinkAddress>
+      <Notes>Todas as ocorrências durante a reunião são registrada em Ata de Reunião.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>63</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>59</UID>
+      <ID>59</ID>
+      <Name>Execução da Disciplina de Requisitos</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/9_executar_requisitos_1FB715A7.html</HyperlinkAddress>
+      <Notes>Essa atividade ocorre em paralelo com a execução da reunião com o cliente e tem o objetivo de observar se os requisitos mapeados estão em conformidade com os requsisitos do cliente.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>63</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>60</UID>
+      <ID>60</ID>
+      <Name>Apresentar Implementação Realizada</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/18_apresentar_implementacao_8890EB6C.html</HyperlinkAddress>
+      <Notes>Apresentar ao cliente a implementação do caso de uso que foi realizada.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>57</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+      <PredecessorLink>
+        <PredecessorUID>58</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+      <PredecessorLink>
+        <PredecessorUID>59</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>61</UID>
+      <ID>61</ID>
+      <Name>Revisar Plano de Desenvolvimento de Software (PDS)</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/19_revisar_plan_des_soft_FA47681D.html</HyperlinkAddress>
+      <Notes>O macroplanejamento sofrerá mudanças e inclusão de informações não enxergadas inicialmente, gerando revisões no Plano de Desenvolvimento de Software(PDS). </Notes>
+    </Task>
+    <Task>
+      <UID>62</UID>
+      <ID>62</ID>
+      <Name>Desenvolver Plano de Iteração e Integração (PI&amp;I)</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/15_desenvolver_plan_iteracao_E8E07C33.html</HyperlinkAddress>
+      <Notes>A partir das iterações definidas no Plano de Desenvolvimento de Software, elabora-se o Plano de Iteração e Integração para a próxima iteração do desenvolvimento.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>61</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>63</UID>
+      <ID>63</ID>
+      <Name>Planejar Reuniões com o Cliente</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/6_plan_reunioes_cliente_4A4CB3D2.html</HyperlinkAddress>
+      <Notes>São planejadas reuniões com o cliente para expor os resultados da iteração.</Notes>
+    </Task>
+    <Task>
+      <UID>64</UID>
+      <ID>64</ID>
+      <Name>Construção</Name>
+      <Type>0</Type>
+      <OutlineLevel>2</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/Construção_4F1185A4.html</HyperlinkAddress>
+      <Notes>Durante a fase de construção, todos os componentes e características restantes da aplicação são desenvolvidos, testados e integrados ao produto. A fase de construção é, de certo modo,um processo industrial, no qual é enfocado o gerenciamento de recursos, prazos e qualidade.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>31</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>65</UID>
+      <ID>65</ID>
+      <Name>Requisitos Construção</Name>
+      <Type>0</Type>
+      <OutlineLevel>3</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/requisitos_construcao_6E4A9088.html</HyperlinkAddress>
+      <Notes>As atividades da disciplina de Requisitos nesta fase são praticamente as mesmas da fase anterior. Elas diferem apenas na quantidade de casos de uso detalhados. Na fase anterior são detalhados os prováveis casos de uso que podem validar a arquitetura. Já nesta fase, apenas o caso de uso participante da iteração é detalhado.</Notes>
+    </Task>
+    <Task>
+      <UID>66</UID>
+      <ID>66</ID>
+      <Name>Iniciar o Detalhamento dos Casos de Usos</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/0_detalhar_cdu_BA310D54.html</HyperlinkAddress>
+      <Notes>Inicia-se o detalhamento de todos  os casos de uso do sistema.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>67</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>67</UID>
+      <ID>67</ID>
+      <Name>Consultar ou Entrevistar Cliente</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/3_consultar_cliente_C4CEED64.html</HyperlinkAddress>
+      <Notes>Caso venham a surgir dúvidas, inseguranças ou inconsistências no detalhamento, o cliente será entrevistado ou consultado por algum meio de comunicação. Após sanar a dúvida, realiza-se novamente a primeira atividade, ajustando o que for necessário.</Notes>
+    </Task>
+    <Task>
+      <UID>68</UID>
+      <ID>68</ID>
+      <Name>Identificar Mudanças nos Requisitos</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/4_identificar_mudancas_requisitos_B368017A.html</HyperlinkAddress>
+      <Notes>Após detalhar o caso de uso, é feita uma revisão nos requisitos, o que pode ocasionar necessidade de alterações nos requisitos.</Notes>
+    </Task>
+    <Task>
+      <UID>69</UID>
+      <ID>69</ID>
+      <Name>Atualizar Diagrama de Casos de Uso e de Classes</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/5_atualizar_diagramas_cdus_classes_1C41D73F.html</HyperlinkAddress>
+      <Notes>Se houver mudanças de requisitos após a atividade anterior, que acarrete a necessidade de surgimento de novo caso de uso, o mesmo é acrescentado ao diagrama geral de casos de uso, isso vale para o digrama de classe do sistema também.</Notes>
+    </Task>
+    <Task>
+      <UID>70</UID>
+      <ID>70</ID>
+      <Name>Atualizar Documento de Visão e de Arquitetura de acordo com as mudanças propostas.</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/6_atualizar_doc_visao_arquitetura_7EC2EF73.html</HyperlinkAddress>
+      <Notes>Se forem encontradas mudanças que não impliquem em novo caso de uso, altera-se apenas o documento de visão.&#xD;
+Tendo ocorrido necessidade de ajuste da arquitetura, procede-se à atualização do documento de arquitetura.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>69</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>71</UID>
+      <ID>71</ID>
+      <Name>Realizar Análise e Projeto</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/10_realizar_analise_e_projeto_8960CF83.html</HyperlinkAddress>
+      <Notes>Concluídas todas as atividades desse fluxo, dá-se início à disciplina de análise e projeto.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>70</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>72</UID>
+      <ID>72</ID>
+      <Name>Análise e Projeto Construção</Name>
+      <Type>0</Type>
+      <OutlineLevel>3</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/analise_projeto_construcao_4CB298C2.html</HyperlinkAddress>
+      <Notes>Os objetivos da disciplina de Análise e Projeto nesta fase são os mesmos da fase anterior.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>65</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>73</UID>
+      <ID>73</ID>
+      <Name>Executar Implementação do Projeto</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/12_executar_implementacao_4F052C6C.html</HyperlinkAddress>
+      <Notes>Executa-se a implementação dos casos de uso escolhidos para a SPRINT.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>76</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>74</UID>
+      <ID>74</ID>
+      <Name>Elaborar Diagrama de Interação de Objetos</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/7_elaborar_diagrama_de_interacao_974267D8.html</HyperlinkAddress>
+      <Notes>Após identificados os conceitos e operações do Caso de Uso selecionado, procede-se à elaboração do diagrama de interação de objetos do mesmo.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>75</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>75</UID>
+      <ID>75</ID>
+      <Name>Escolher caso de uso para ser implementado na iteração</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/New Task Descriptor_A2D9BCF6.html</HyperlinkAddress>
+    </Task>
+    <Task>
+      <UID>76</UID>
+      <ID>76</ID>
+      <Name>Atualizar Diagrama de Casos de Uso e de Classes</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/New Task Descriptor_2_D96A2411.html</HyperlinkAddress>
+      <PredecessorLink>
+        <PredecessorUID>74</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>77</UID>
+      <ID>77</ID>
+      <Name>Implementação e Testes Construção</Name>
+      <Type>0</Type>
+      <OutlineLevel>3</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/impl_testes_construcao_460953E6.html</HyperlinkAddress>
+      <Notes>Com a arquitetura do sistema validada na fase de Elaboração, esta disciplina agora tem como objetivo realizar a codificação, ou seja, a implementação e o teste dos componentes pertencentes ao caso de uso, bem como sua integração com a parte do sistema já desenvolvida.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>72</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>78</UID>
+      <ID>78</ID>
+      <Name>Escolher caso de uso para ser implementado na iteração</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/New Task Descriptor_DA74A2B6.html</HyperlinkAddress>
+      <PredecessorLink>
+        <PredecessorUID>80</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>79</UID>
+      <ID>79</ID>
+      <Name>Realizar a Disciplina de Implementação e Teste para o Caso de Uso Selecionado da SPRINT</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/New Task Descriptor_2_AFD2C92E.html</HyperlinkAddress>
+      <PredecessorLink>
+        <PredecessorUID>78</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>80</UID>
+      <ID>80</ID>
+      <Name>Executar Implementação do Projeto</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/New Task Descriptor_3_D1C66B83.html</HyperlinkAddress>
+    </Task>
+    <Task>
+      <UID>81</UID>
+      <ID>81</ID>
+      <Name>Revisar Documento de Visão, Arquitetura e Especificação de Casos de Uso</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/New Task Descriptor_4_80F528ED.html</HyperlinkAddress>
+      <PredecessorLink>
+        <PredecessorUID>79</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>82</UID>
+      <ID>82</ID>
+      <Name>Gerência de Processo Construção</Name>
+      <Type>0</Type>
+      <OutlineLevel>3</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/gerencia_construcao_29183F0D.html</HyperlinkAddress>
+      <Notes>Durante a Construção, o Gerente trabalha pra manter o desenvolvimento do projeto dentro de uma margem aceitável do que foi planejado. Essa fase é um ciclo de entregas de protótipos que, quando finalizada, apresenta um produto quase maduro para ser entregue.</Notes>
+    </Task>
+    <Task>
+      <UID>83</UID>
+      <ID>83</ID>
+      <Name>Escrever Documento de Ambiente</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/5_escrever_doc_amb_157D3E45.html</HyperlinkAddress>
+      <Notes>Especificadas e instaladas todas as ferramentas necessárias, escreve-se o documento de ambiente.</Notes>
+    </Task>
+    <Task>
+      <UID>84</UID>
+      <ID>84</ID>
+      <Name>Executar Reuniões com o Cliente ao Fim da Iteração com o Protótipo Desenvolvido</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/20_executar_reunioes_cliente_7E57140A.html</HyperlinkAddress>
+      <Notes>As reuniões na fase de Construção têm o propósito de apresentar o protótipo do sistema ao cliente.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>88</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>85</UID>
+      <ID>85</ID>
+      <Name>Registrar Reuniões em Ata de Reunião</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/8_registrar_em_ata_E0D82C3E.html</HyperlinkAddress>
+      <Notes>Todas as ocorrências durante a reunião são registrada em Ata de Reunião.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>84</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>86</UID>
+      <ID>86</ID>
+      <Name>Revisar Plano de Desenvolvimento de Software (PDS)</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/19_revisar_plan_des_soft_DA0F2064.html</HyperlinkAddress>
+      <Notes>O macroplanejamento sofrerá mudanças e inclusão de informações não enxergadas inicialmente, gerando revisões no Plano de Desenvolvimento de Software(PDS). </Notes>
+    </Task>
+    <Task>
+      <UID>87</UID>
+      <ID>87</ID>
+      <Name>Desenvolver Plano de Iteração e Integração (PI&amp;I)</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/15_desenvolver_plan_iteracao_42E8F629.html</HyperlinkAddress>
+      <Notes>A partir das iterações definidas no Plano de Desenvolvimento de Software, elabora-se o Plano de Iteração e Integração para a próxima iteração do desenvolvimento.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>86</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>88</UID>
+      <ID>88</ID>
+      <Name>Planejar Reuniões com o Cliente</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/6_plan_reunioes_cliente_A1B82926.html</HyperlinkAddress>
+      <Notes>São planejadas reuniões com o cliente para expor os resultados da iteração.</Notes>
+    </Task>
+    <Task>
+      <UID>89</UID>
+      <ID>89</ID>
+      <Name>Validação</Name>
+      <Type>0</Type>
+      <OutlineLevel>2</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/Validação_A351A7F4.html</HyperlinkAddress>
+      <Notes>O foco da Fase de Validação é assegurar que o software esteja disponível para seus usuários finais. </Notes>
+      <PredecessorLink>
+        <PredecessorUID>64</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>90</UID>
+      <ID>90</ID>
+      <Name>Requisitos Validação</Name>
+      <Type>0</Type>
+      <OutlineLevel>3</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/requisitos_validacao_7F26D330.html</HyperlinkAddress>
+      <Notes>A disciplina de requisitos na fase de validação é bastante simples. Ela será executada apenas se novas funcionalidades tiverem sido adicionadas ao sistema.</Notes>
+    </Task>
+    <Task>
+      <UID>91</UID>
+      <ID>91</ID>
+      <Name>Realizar Analise de Evolução do Projeto</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/New Task Descriptor_658AFBE.html</HyperlinkAddress>
+    </Task>
+    <Task>
+      <UID>92</UID>
+      <ID>92</ID>
+      <Name>Realizara Disciplina de Análise e Projeto da Fase de Contrução</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/New Task Descriptor_2_99D96079.html</HyperlinkAddress>
+    </Task>
+    <Task>
+      <UID>93</UID>
+      <ID>93</ID>
+      <Name>Análise e Projeto Validação</Name>
+      <Type>0</Type>
+      <OutlineLevel>3</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/analise_projeto_validacao_1E5A6C4.html</HyperlinkAddress>
+      <Notes>A disciplina de análise e projeto é tão simples quanto a anterior. </Notes>
+      <PredecessorLink>
+        <PredecessorUID>90</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>94</UID>
+      <ID>94</ID>
+      <Name>Implementação e Testes Validação</Name>
+      <Type>0</Type>
+      <OutlineLevel>3</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/impl_testes_validacao_62693C6F.html</HyperlinkAddress>
+      <Notes>Nesta fase, o foco principal da disciplina de Implementação é realizar os testes do produto em preparação para release, bem como ajustes pequenos com base no feedback do cliente. </Notes>
+      <PredecessorLink>
+        <PredecessorUID>93</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>95</UID>
+      <ID>95</ID>
+      <Name>Planejar Testes Alfa em Ambiente de Desenvolvimento</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/1_planejar_testes_alfa_57373ED2.html</HyperlinkAddress>
+      <Notes>No primeiro momento da disciplina de Implementação e Testes da fase de Validação, são planejados os testes no ambiente de desenvolvimento (testes alfa).</Notes>
+    </Task>
+    <Task>
+      <UID>96</UID>
+      <ID>96</ID>
+      <Name>Executar Testes Alfa em Build Estável no Ambiente de Desenvolvimento</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/2_executar_testes_alfa_61D51EE2.html</HyperlinkAddress>
+      <Notes>São executados os testes alfa em ambiente de desenvolvimento.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>95</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+      <PredecessorLink>
+        <PredecessorUID>98</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>97</UID>
+      <ID>97</ID>
+      <Name>Verificar se Necessita passar por Implementação ou se deve passar por Remodelagem</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/3_verificar_necessidade_de_remodelagem_506E32F8.html</HyperlinkAddress>
+      <Notes>Caso tenham sido detectados erros no sistema a partir dos testes alfa, executa-se essa atividade.</Notes>
+    </Task>
+    <Task>
+      <UID>98</UID>
+      <ID>98</ID>
+      <Name>Implementar Correção de Erros</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/4_implementar_correcoes_B94808BD.html</HyperlinkAddress>
+      <Notes>Executa-se essa atividade após a remodelagem solicitada após os testes alfa. Caso os erros detectados nos testes alfa não identifiquem necessidade de remodelagem, passa-se para essa atividade sem remodelar.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>99</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>99</UID>
+      <ID>99</ID>
+      <Name>Iniciar Alterações de Modelagem em Disciplina de Análise e Projeto</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/5_iniciar_alteracoes_de_modelagem_1BC920F1.html</HyperlinkAddress>
+      <Notes>Caso sejam identificadas necessidades de remodelagem após os testes alfa, executa-se essa atividade.</Notes>
+    </Task>
+    <Task>
+      <UID>100</UID>
+      <ID>100</ID>
+      <Name>Executar Builds Necessários, Integrar (caso necessário) e criar um Release</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/6_executar_build_26670101.html</HyperlinkAddress>
+      <Notes>Caso os testes alfa não detectem erros, executa-se essa atividade.</Notes>
+    </Task>
+    <Task>
+      <UID>101</UID>
+      <ID>101</ID>
+      <Name>Gerar Relatório com Dados Coletados</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/8_gerar_relatorio_de_teste_beta_EAF8E320.html</HyperlinkAddress>
+      <Notes>Após a realização dos teses beta, são gerados relatórios com os resultados que irão definir se o sistema foi ou não aprovado.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>100</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>102</UID>
+      <ID>102</ID>
+      <Name>Gerência de Processo Validação</Name>
+      <Type>0</Type>
+      <OutlineLevel>3</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/gerencia_validacao_CDF4368B.html</HyperlinkAddress>
+      <Notes>Durante a fase de validação, a disciplina de Gerência de Processo tem com objetivo entregar o Sistema de uma forma satisfatória, verificando sempre a aceitação do cliente como critério de finalização do projeto. Para isso, os trabalhadores cuidam para que o sistema funcione bem no ambiente onde será executado.</Notes>
+    </Task>
+    <Task>
+      <UID>103</UID>
+      <ID>103</ID>
+      <Name>Identificar o Ambiente Necessário para o Funcionamento do Sistema a ser Implantado</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/21_identificar_ambiente_4978856A.html</HyperlinkAddress>
+      <Notes>Deve-se identificar os softwares necessários para que o sistema seja implantado e funcione normalmente, possivelmente num servidor do contratante.</Notes>
+    </Task>
+    <Task>
+      <UID>104</UID>
+      <ID>104</ID>
+      <Name>Instalar Softwares Identificados</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/22_instalar_softwares_5416657A.html</HyperlinkAddress>
+      <Notes>Após identificados, os softwares devem ser instalados.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>103</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>105</UID>
+      <ID>105</ID>
+      <Name>Implantar o Sistema</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/23_implantar_sistema_42AF7990.html</HyperlinkAddress>
+      <Notes>O sistema, após a instalação dos softwares necessários, é implantado.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>104</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>106</UID>
+      <ID>106</ID>
+      <Name>Reunir-se para Apresentar o Sistema Final</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/24_apresentar_sistema_AB894F55.html</HyperlinkAddress>
+      <Notes>Essa é a reunião final com o cliente, na qual o sistema é apresentado.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>108</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+      <PredecessorLink>
+        <PredecessorUID>112</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>107</UID>
+      <ID>107</ID>
+      <Name>Registrar Reuniões em Ata de Reunião</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/8_registrar_em_ata_E0A6789.html</HyperlinkAddress>
+      <Notes>Todas as ocorrências durante a reunião são registrada em Ata de Reunião.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>106</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>108</UID>
+      <ID>108</ID>
+      <Name>Nova Iteração para Ajustes</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/25_nova_iteracao_ajustes_18A84799.html</HyperlinkAddress>
+      <Notes>Caso existam discordâncias, uma nova iteração é requerida para que sejam realizados os ajustes, essa nova iteração pode durar muito pouco, cerca de um ou dois dias.</Notes>
+    </Task>
+    <Task>
+      <UID>109</UID>
+      <ID>109</ID>
+      <Name>Revisar Plano de Desenvolvimento de Software (PDS)</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/19_revisar_plan_des_soft_7415BAF.html</HyperlinkAddress>
+      <Notes>O macroplanejamento sofrerá mudanças e inclusão de informações não enxergadas inicialmente, gerando revisões no Plano de Desenvolvimento de Software(PDS). </Notes>
+    </Task>
+    <Task>
+      <UID>110</UID>
+      <ID>110</ID>
+      <Name>Desenvolver Plano de Iteração e Integração (PI&amp;I)</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/15_desenvolver_plan_iteracao_701B3174.html</HyperlinkAddress>
+      <Notes>A partir das iterações definidas no Plano de Desenvolvimento de Software, elabora-se o Plano de Iteração e Integração para a próxima iteração do desenvolvimento.</Notes>
+      <PredecessorLink>
+        <PredecessorUID>109</PredecessorUID>
+        <Type>1</Type>
+        <CrossProject>0</CrossProject>
+        <LinkLag>0</LinkLag>
+        <LagFormat>7</LagFormat>
+      </PredecessorLink>
+    </Task>
+    <Task>
+      <UID>111</UID>
+      <ID>111</ID>
+      <Name>Realizar Comemoração de Fim de Projeto</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/26_comemoracao_fim_D29C49A8.html</HyperlinkAddress>
+      <Notes>Ao final do projeto é realizada uma comemoração com a equipe.</Notes>
+    </Task>
+    <Task>
+      <UID>112</UID>
+      <ID>112</ID>
+      <Name>Planejar Reuniões com o Cliente</Name>
+      <Type>0</Type>
+      <OutlineLevel>4</OutlineLevel>
+      <Start>2014-09-11T19:23:45</Start>
+      <Milestone>0</Milestone>
+      <HyperlinkAddress>C:\HD------------SUZY----------\TADS--------------------------------\4 PERIODO - ANDAMENTOOOOOOOOOOO\Processo de Software\2 Bimestre\EXPORT\projeto\paad/PAAD/deliveryprocesses/6_plan_reunioes_cliente_706BF967.html</HyperlinkAddress>
+      <Notes>São planejadas reuniões com o cliente para expor os resultados da iteração.</Notes>
+    </Task>
+  </Tasks>
+  <Resources>
+    <Resource>
+      <UID>0</UID>
+      <ID>0</ID>
+      <Type>1</Type>
+      <IsNull>0</IsNull>
+      <WorkGroup>0</WorkGroup>
+      <MaxUnits>1.0</MaxUnits>
+      <PeakUnits>0.0</PeakUnits>
+      <OverAllocated>0</OverAllocated>
+      <CanLevel>1</CanLevel>
+      <AccrueAt>3</AccrueAt>
+      <Work>PT0H0M0S</Work>
+      <RegularWork>PT0H0M0S</RegularWork>
+      <OvertimeWork>PT0H0M0S</OvertimeWork>
+      <ActualWork>PT0H0M0S</ActualWork>
+      <RemainingWork>PT0H0M0S</RemainingWork>
+      <ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
+      <RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
+      <PercentWorkComplete>0</PercentWorkComplete>
+      <StandardRate>0</StandardRate>
+      <StandardRateFormat>2</StandardRateFormat>
+      <Cost>0</Cost>
+      <OvertimeRate>0</OvertimeRate>
+      <OvertimeRateFormat>2</OvertimeRateFormat>
+      <OvertimeCost>0</OvertimeCost>
+      <CostPerUse>0</CostPerUse>
+      <ActualCost>0</ActualCost>
+      <ActualOvertimeCost>0</ActualOvertimeCost>
+      <RemainingCost>0</RemainingCost>
+      <RemainingOvertimeCost>0</RemainingOvertimeCost>
+      <WorkVariance>0.0</WorkVariance>
+      <CostVariance>0.0</CostVariance>
+      <SV>0.0</SV>
+      <CV>0.0</CV>
+      <ACWP>0.0</ACWP>
+      <CalendarUID>2</CalendarUID>
+      <BCWS>0.0</BCWS>
+      <BCWP>0.0</BCWP>
+      <IsGeneric>0</IsGeneric>
+      <IsInactive>0</IsInactive>
+      <IsEnterprise>0</IsEnterprise>
+      <BookingType>0</BookingType>
+      <ActualWorkProtected>PT0H0M0S</ActualWorkProtected>
+      <ActualOvertimeWorkProtected>PT0H0M0S</ActualOvertimeWorkProtected>
+      <CreationDate>2006-02-10T14:36:00</CreationDate>
+    </Resource>
+    <Resource>
+      <UID>1</UID>
+      <ID>1</ID>
+      <Name>Stakeholders</Name>
+    </Resource>
+    <Resource>
+      <UID>2</UID>
+      <ID>2</ID>
+      <Name>Analista</Name>
+    </Resource>
+    <Resource>
+      <UID>3</UID>
+      <ID>3</ID>
+      <Name>Arquiteto</Name>
+    </Resource>
+    <Resource>
+      <UID>4</UID>
+      <ID>4</ID>
+      <Name>Gerente de Projetos</Name>
+    </Resource>
+    <Resource>
+      <UID>5</UID>
+      <ID>5</ID>
+      <Name>Designer</Name>
+    </Resource>
+    <Resource>
+      <UID>6</UID>
+      <ID>6</ID>
+      <Name>Projetista</Name>
+    </Resource>
+    <Resource>
+      <UID>7</UID>
+      <ID>7</ID>
+      <Name>Implementador e Testador</Name>
+    </Resource>
+  </Resources>
+  <Assignments>
+    <Assignment>
+      <UID>1</UID>
+      <TaskUID>4</TaskUID>
+      <ResourceUID>1</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>2</UID>
+      <TaskUID>4</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>3</UID>
+      <TaskUID>5</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>4</UID>
+      <TaskUID>6</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>5</UID>
+      <TaskUID>7</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>6</UID>
+      <TaskUID>8</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>7</UID>
+      <TaskUID>8</TaskUID>
+      <ResourceUID>3</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>8</UID>
+      <TaskUID>9</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>9</UID>
+      <TaskUID>11</TaskUID>
+      <ResourceUID>3</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>10</UID>
+      <TaskUID>12</TaskUID>
+      <ResourceUID>3</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>11</UID>
+      <TaskUID>12</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>12</UID>
+      <TaskUID>13</TaskUID>
+      <ResourceUID>3</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>13</UID>
+      <TaskUID>15</TaskUID>
+      <ResourceUID>5</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>14</UID>
+      <TaskUID>17</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>15</UID>
+      <TaskUID>18</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>16</UID>
+      <TaskUID>19</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>17</UID>
+      <TaskUID>20</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>18</UID>
+      <TaskUID>21</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>19</UID>
+      <TaskUID>22</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>20</UID>
+      <TaskUID>23</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>21</UID>
+      <TaskUID>24</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>22</UID>
+      <TaskUID>25</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>23</UID>
+      <TaskUID>26</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>24</UID>
+      <TaskUID>27</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>25</UID>
+      <TaskUID>28</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>26</UID>
+      <TaskUID>29</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>27</UID>
+      <TaskUID>33</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>28</UID>
+      <TaskUID>33</TaskUID>
+      <ResourceUID>3</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>29</UID>
+      <TaskUID>34</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>30</UID>
+      <TaskUID>35</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>31</UID>
+      <TaskUID>35</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>32</UID>
+      <TaskUID>36</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>33</UID>
+      <TaskUID>36</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>34</UID>
+      <TaskUID>37</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>35</UID>
+      <TaskUID>38</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>36</UID>
+      <TaskUID>39</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>37</UID>
+      <TaskUID>41</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>38</UID>
+      <TaskUID>41</TaskUID>
+      <ResourceUID>3</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>39</UID>
+      <TaskUID>41</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>40</UID>
+      <TaskUID>42</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>41</UID>
+      <TaskUID>43</TaskUID>
+      <ResourceUID>7</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>42</UID>
+      <TaskUID>44</TaskUID>
+      <ResourceUID>3</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>43</UID>
+      <TaskUID>44</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>44</UID>
+      <TaskUID>45</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>45</UID>
+      <TaskUID>45</TaskUID>
+      <ResourceUID>3</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>46</UID>
+      <TaskUID>54</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>47</UID>
+      <TaskUID>55</TaskUID>
+      <ResourceUID>7</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>48</UID>
+      <TaskUID>56</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>49</UID>
+      <TaskUID>57</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>50</UID>
+      <TaskUID>58</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>51</UID>
+      <TaskUID>59</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>52</UID>
+      <TaskUID>60</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>53</UID>
+      <TaskUID>61</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>54</UID>
+      <TaskUID>62</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>55</UID>
+      <TaskUID>63</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>56</UID>
+      <TaskUID>66</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>57</UID>
+      <TaskUID>67</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>58</UID>
+      <TaskUID>67</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>59</UID>
+      <TaskUID>68</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>60</UID>
+      <TaskUID>68</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>61</UID>
+      <TaskUID>69</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>62</UID>
+      <TaskUID>70</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>63</UID>
+      <TaskUID>71</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>64</UID>
+      <TaskUID>73</TaskUID>
+      <ResourceUID>7</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>65</UID>
+      <TaskUID>74</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>66</UID>
+      <TaskUID>83</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>67</UID>
+      <TaskUID>84</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>68</UID>
+      <TaskUID>84</TaskUID>
+      <ResourceUID>7</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>69</UID>
+      <TaskUID>85</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>70</UID>
+      <TaskUID>86</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>71</UID>
+      <TaskUID>87</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>72</UID>
+      <TaskUID>88</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>73</UID>
+      <TaskUID>95</TaskUID>
+      <ResourceUID>7</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>74</UID>
+      <TaskUID>96</TaskUID>
+      <ResourceUID>7</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>75</UID>
+      <TaskUID>97</TaskUID>
+      <ResourceUID>7</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>76</UID>
+      <TaskUID>98</TaskUID>
+      <ResourceUID>7</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>77</UID>
+      <TaskUID>99</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>78</UID>
+      <TaskUID>100</TaskUID>
+      <ResourceUID>7</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>79</UID>
+      <TaskUID>101</TaskUID>
+      <ResourceUID>7</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>80</UID>
+      <TaskUID>103</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>81</UID>
+      <TaskUID>104</TaskUID>
+      <ResourceUID>7</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>82</UID>
+      <TaskUID>105</TaskUID>
+      <ResourceUID>7</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>83</UID>
+      <TaskUID>106</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>84</UID>
+      <TaskUID>107</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>85</UID>
+      <TaskUID>108</TaskUID>
+      <ResourceUID>3</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>86</UID>
+      <TaskUID>108</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>87</UID>
+      <TaskUID>108</TaskUID>
+      <ResourceUID>7</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>88</UID>
+      <TaskUID>109</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>89</UID>
+      <TaskUID>110</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>90</UID>
+      <TaskUID>111</TaskUID>
+      <ResourceUID>2</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>91</UID>
+      <TaskUID>111</TaskUID>
+      <ResourceUID>5</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>92</UID>
+      <TaskUID>111</TaskUID>
+      <ResourceUID>6</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>93</UID>
+      <TaskUID>111</TaskUID>
+      <ResourceUID>3</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>94</UID>
+      <TaskUID>111</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>95</UID>
+      <TaskUID>111</TaskUID>
+      <ResourceUID>7</ResourceUID>
+    </Assignment>
+    <Assignment>
+      <UID>96</UID>
+      <TaskUID>112</TaskUID>
+      <ResourceUID>4</ResourceUID>
+    </Assignment>
+  </Assignments>
+</Project>

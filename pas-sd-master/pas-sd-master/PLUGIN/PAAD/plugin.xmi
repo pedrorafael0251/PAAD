@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_POEPcHc4Ed6LBuiIOANIVw" guid="_POEPcHc4Ed6LBuiIOANIVw">
+    <subManagers xmi:id="_f9V-8H_lEd62TNYWta-H0w" href="uma://_f7tAMH_lEd62TNYWta-H0w#_f9V-8H_lEd62TNYWta-H0w"/>
+    <resourceDescriptors xmi:id="_z5afAHlGEd6Q9KdDavqEGw" id="-oUQf37td0ohg4nqpm1SIUQ" uri="tasks/1_definir_projeto.xmi"/>
+    <resourceDescriptors xmi:id="_YdEZYXocEd6SN4po6aHMzA" id="-eRy8gq6Re892Px71w-Yr5A" uri="roles/stakeholders.xmi"/>
+    <resourceDescriptors xmi:id="_5AGmwHocEd6SN4po6aHMzA" id="-mZBMGL6XyZy5RZsy8F7Ncg" uri="roles/gerente.xmi"/>
+    <resourceDescriptors xmi:id="_KR46AHpREd6pL8HyHB0u_w" id="-vqPsnCw9e74cpErrU83jmw" uri="workproducts/doc_visao%202.xmi"/>
+    <resourceDescriptors xmi:id="_KSVl8HpREd6pL8HyHB0u_w" id="-xFX8lEN4Ueb1B4UFhOAvGQ" uri="workproducts/prototipo_de_telas%202.xmi"/>
+    <resourceDescriptors xmi:id="_bJ7OIHpREd6pL8HyHB0u_w" id="-DI7Wz_o4cL26AJgRgXX6cw" uri="workproducts/especificacao_cdu%202.xmi"/>
+    <resourceDescriptors xmi:id="_62iCcXpUEd6pL8HyHB0u_w" id="--c1pwEur_D72k54S8_y6NQ" uri="workproducts/ata_de_reuniao.xmi"/>
+    <resourceDescriptors xmi:id="_dKA5wHpVEd6pL8HyHB0u_w" id="-eepVhfuSkfih_QWP0HfbKg" uri="workproducts/codigos_fontes.xmi"/>
+    <resourceDescriptors xmi:id="_511lAXpVEd6pL8HyHB0u_w" id="-ZSHZ95FvEn9jZStFlqErcA" uri="workproducts/diagrama_de_classes.xmi"/>
+    <resourceDescriptors xmi:id="_PjXocHpWEd6pL8HyHB0u_w" id="--49mxNt3GeI_mc3I8lp1Yw" uri="workproducts/diagrama_geral_cdus.xmi"/>
+    <resourceDescriptors xmi:id="_uMqF8HpWEd6pL8HyHB0u_w" id="-vzJ-sBAFYEs5PVo_5VgLoQ" uri="workproducts/diagrama_interacao.xmi"/>
+    <resourceDescriptors xmi:id="_9Y_dgXpnEd6qSeDl5gNwgQ" id="-IQdvirST4DmYsso-5nfK8Q" uri="tasks/2_definir_escopo.xmi"/>
+    <resourceDescriptors xmi:id="_eODPAXpoEd6qSeDl5gNwgQ" id="-s_svv8NowTHsEa_5WlazbA" uri="tasks/3_definir_funcionalidades.xmi"/>
+    <resourceDescriptors xmi:id="_vUZE4XpoEd6qSeDl5gNwgQ" id="-spS3xdeknXNzGJhjg-Q4tw" uri="tasks/4_dividir_em_cdus.xmi"/>
+    <resourceDescriptors xmi:id="_5IgN0XppEd6qSeDl5gNwgQ" id="-tnNHksTnB63MyH6FCZtCvQ" uri="tasks/5_classificar_cdus.xmi"/>
+    <resourceDescriptors xmi:id="_HXHooXpqEd6qSeDl5gNwgQ" id="-TCgkm9mxruR7gbBUKk2zrw" uri="tasks/6_descrever_cdus.xmi"/>
+    <resourceDescriptors xmi:id="_Fwjl4HubEd64wKJP97lW7A" id="-zJVyOQIN1cEAAfhJ3QUINw" uri="guidances/templates/modelo_ata.xmi"/>
+    <resourceDescriptors xmi:id="_MpsA4HubEd64wKJP97lW7A" id="-LTKEan0A6cwoOgrxqLA6dw" uri="guidances/templates/modelo_doc_ambiente.xmi"/>
+    <resourceDescriptors xmi:id="_R_7FwHubEd64wKJP97lW7A" id="-f1L6Fusybq-Ic5vSxGh35A" uri="guidances/templates/modelo_doc_arquitetura.xmi"/>
+    <resourceDescriptors xmi:id="_XLvDUHubEd64wKJP97lW7A" id="-YmlGC7pMfyH1ORHfqtP8CQ" uri="guidances/templates/modelo_doc_risco.xmi"/>
+    <resourceDescriptors xmi:id="_bJ0CcHubEd64wKJP97lW7A" id="-iiWvKVNQg9CL6uxd1S7yDA" uri="guidances/templates/modelo_doc_visao.xmi"/>
+    <resourceDescriptors xmi:id="_hSreIXubEd64wKJP97lW7A" id="-G5n72ize5lmD9CX_8uNuxQ" uri="guidances/templates/modelo_especificacao_cdu.xmi"/>
+    <resourceDescriptors xmi:id="_m55lUHubEd64wKJP97lW7A" id="-dvwa8EjhSfsEdYWTslW56w" uri="guidances/templates/modelo_plan_des_soft.xmi"/>
+    <resourceDescriptors xmi:id="_shjxYHubEd64wKJP97lW7A" id="-nnjvG-AIPmilRllaWYJ3Tw" uri="guidances/templates/modelo_plano_iteracao.xmi"/>
+    <resourceDescriptors xmi:id="___svoXucEd64wKJP97lW7A" id="-n6uY8m8nIN4GZL2dyp-64g" uri="guidances/examples/exemplo_diagrama_geral_cdus.xmi"/>
+    <resourceDescriptors xmi:id="_yUo4YXudEd64wKJP97lW7A" id="-E87w86RGEBjCokWwFeATZg" uri="guidances/examples/exemplo_diagrama_classes.xmi"/>
+    <resourceDescriptors xmi:id="_KvZhoXufEd64wKJP97lW7A" id="-hsJgvO_tquWPVid1sg-S2w" uri="guidances/examples/exemplo_diagrama_interacao.xmi"/>
+    <resourceDescriptors xmi:id="_D7de4H7wEd66CsJhS3fIDw" id="--6pTkJRKR2jWjlSWNgMmDA" uri="roles/analista.xmi"/>
+    <resourceDescriptors xmi:id="_ruDbgX72Ed66CsJhS3fIDw" id="-XC9QmKICtyJOojdOXhpk_g" uri="roles/arquiteto.xmi"/>
+    <resourceDescriptors xmi:id="_7I1vsH8QEd6jc_Qm_XXkmA" id="-wHfxUpGDRz2I5t2gdpBwCA" uri="roles/implementador_testador.xmi"/>
+    <resourceDescriptors xmi:id="_OZC_oH8SEd6jc_Qm_XXkmA" id="-FeMce2FJEdQ1D4GiLhuxHw" uri="roles/projetista.xmi"/>
+    <resourceDescriptors xmi:id="_6par8H8UEd6jc_Qm_XXkmA" id="-SHMdTnkdNHMWEgoHCo-uYw" uri="roles/designer.xmi"/>
+    <resourceDescriptors xmi:id="_O6NFUH-pEd62TNYWta-H0w" id="-N3POD1n3tDxixvXRQ_2Z_w" uri="tasks/3_consultar_cliente.xmi"/>
+    <resourceDescriptors xmi:id="_dGSJgH-pEd62TNYWta-H0w" id="-FgdoIQr6zeAxJJcAMzDC7A" uri="tasks/4_identificar_mudancas_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_ga6jAH-pEd62TNYWta-H0w" id="-rOC5A-aK2if3vWNEvOw7lw" uri="tasks/5_atualizar_diagramas_cdus_classes.xmi"/>
+    <resourceDescriptors xmi:id="_h48nQH-pEd62TNYWta-H0w" id="-PX6BAXRzgBE88OnjC5VBCA" uri="tasks/6_atualizar_doc_visao_arquitetura.xmi"/>
+    <resourceDescriptors xmi:id="_kCCasX-pEd62TNYWta-H0w" id="-7id6tU25cTwD8CE-XIr3Cw" uri="tasks/10_realizar_analise_e_projeto.xmi"/>
+    <resourceDescriptors xmi:id="_exTEYX-qEd62TNYWta-H0w" id="-_hOmc1QYeW7jsUwuwSto4A" uri="tasks/7_elaborar_diagrama_de_interacao.xmi"/>
+    <resourceDescriptors xmi:id="_ueJQYH-tEd62TNYWta-H0w" id="-92HAftwyvR28xqkIrZ-GKA" uri="tasks/1_especificar_so.xmi"/>
+    <resourceDescriptors xmi:id="_ei3GIX-yEd62TNYWta-H0w" id="-ePLau40uWrx42c_4ZVc42w" uri="tasks/5_escrever_doc_amb.xmi"/>
+    <resourceDescriptors xmi:id="_7ni9UH-yEd62TNYWta-H0w" id="-KOS4SV-tiXm3Fo-OQ6NV1g" uri="tasks/7_executar_reunioes.xmi"/>
+    <resourceDescriptors xmi:id="_ENGd4H-zEd62TNYWta-H0w" id="-t_vnmD85vc-aGbMVHw_cWA" uri="tasks/8_registrar_em_ata.xmi"/>
+    <resourceDescriptors xmi:id="_LGewgH-zEd62TNYWta-H0w" id="-pi82OfbIylFS8GuHz6tz8A" uri="tasks/9_executar_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_XM5IsH-zEd62TNYWta-H0w" id="-mqZo_MDxtWMRuWwLXCbJ7Q" uri="tasks/15_desenvolver_plan_iteracao.xmi"/>
+    <resourceDescriptors xmi:id="_gZN44H-0Ed62TNYWta-H0w" id="-kh5lFg1tLhHarcU9aYAn0w" uri="tasks/19_revisar_plan_des_soft.xmi"/>
+    <resourceDescriptors xmi:id="_-b9aIH-8Ed62TNYWta-H0w" id="-k2eOejV3qPQBgUk08-MfCg" uri="disciplines/requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_CErX0X--Ed62TNYWta-H0w" id="-DUHpvFRISiScnIIKA7aZ6Q" uri="disciplines/analise_e_projeto.xmi"/>
+    <resourceDescriptors xmi:id="_tO0t0X--Ed62TNYWta-H0w" id="-oEoLSn_T8PYaVkcNH7xJAg" uri="disciplines/impl_testes.xmi"/>
+    <resourceDescriptors xmi:id="_Vs9JgX-_Ed62TNYWta-H0w" id="-Y696_bHMHdMiyTCtzkTblA" uri="disciplines/gerencia.xmi"/>
+    <resourceDescriptors xmi:id="_pdcUoX_DEd62TNYWta-H0w" id="-6SVjo8vmqXb58vq6RkJMsA" uri="disciplinegroupings/disciplinas_concepcao.xmi"/>
+    <resourceDescriptors xmi:id="_L8V8UX_FEd62TNYWta-H0w" id="-sF1xx58WR-rWAJJS9ew2Dg" uri="disciplinegroupings/disciplinas_elaboracao.xmi"/>
+    <resourceDescriptors xmi:id="_X9JUYH_IEd62TNYWta-H0w" id="-kQjVcOA9xmcW0BffwUbZcg" uri="disciplines/requisitos_elaboracao.xmi"/>
+    <resourceDescriptors xmi:id="_5fudwH_JEd62TNYWta-H0w" id="-mMTpn0z-TlZaBs2s2wW-5A" uri="disciplines/analise_elaboracao.xmi"/>
+    <resourceDescriptors xmi:id="_HCDvcX_MEd62TNYWta-H0w" id="-1ukisYE6PnqDpigHxIjoiA" uri="disciplines/impl_elaboracao.xmi"/>
+    <resourceDescriptors xmi:id="_KwQqEX_NEd62TNYWta-H0w" id="-obGVG4KiSkMl-JePNhvAtQ" uri="disciplines/gerencia_elaboracao.xmi"/>
+    <resourceDescriptors xmi:id="_l7M78X_OEd62TNYWta-H0w" id="-wDD8YpZeCeW_CE2Uv-KFug" uri="disciplinegroupings/disciplinas_construcao.xmi"/>
+    <resourceDescriptors xmi:id="_jhLeoX_QEd62TNYWta-H0w" id="-YSoJ_pXJccDw7Vzx5H-81Q" uri="disciplines/analise_construcao.xmi"/>
+    <resourceDescriptors xmi:id="_ChzeEX_REd62TNYWta-H0w" id="-IoPBx4uf6-CqdP8YihEvAA" uri="disciplines/impl_construcao.xmi"/>
+    <resourceDescriptors xmi:id="_snt6cX_SEd62TNYWta-H0w" id="-o1eOgFendaz7w6FMluYYWA" uri="disciplines/gerencia_construcao.xmi"/>
+    <resourceDescriptors xmi:id="_HCKY8X_TEd62TNYWta-H0w" id="-QeEzpD5UtrZH8CXe5l6KVg" uri="disciplinegroupings/disciplinas_validacao.xmi"/>
+    <resourceDescriptors xmi:id="_YTVwYX_UEd62TNYWta-H0w" id="-3X5FX4zf9hbRTSm9o4bTXA" uri="disciplines/requisitos_validacao.xmi"/>
+    <resourceDescriptors xmi:id="_wc9bwH_UEd62TNYWta-H0w" id="-rGYWaU0Vb9lNzcMQbEM0_A" uri="disciplines/analise_validacao.xmi"/>
+    <resourceDescriptors xmi:id="_2AoDMX_VEd62TNYWta-H0w" id="-SlP_Ns9dv74VWXaGe2dRLg" uri="disciplines/impl_validacao.xmi"/>
+    <resourceDescriptors xmi:id="_1VEIQH_WEd62TNYWta-H0w" id="-45Xt1Ua2BJpBzUH2rbU1wA" uri="disciplines/gerencia_validacao.xmi"/>
+    <resourceDescriptors xmi:id="_f72xMH_lEd62TNYWta-H0w" id="_f7tAMH_lEd62TNYWta-H0w" uri="deliveryprocesses/paad/model.xmi"/>
+    <resourceDescriptors xmi:id="_i4mPUIAKEd6eXbvB7wA9gw" id="-rwKHw7wT4z_3-fCh7CZR4Q" uri="customcategories/atividades%20do%20processo.xmi"/>
+    <resourceDescriptors xmi:id="__5hMEJJ6Ed66foGdT4dnPg" id="-bPsOvW29SLgviB-OnXONVg" uri="guidances/toolmentors/ms_project.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_PNdygHc4Ed6LBuiIOANIVw" name="PAAD" guid="_PNdygHc4Ed6LBuiIOANIVw" presentationName="PAS" briefDescription="Processo Acadêmico Simplificado">
+    <methodElementProperty xmi:id="_HUPJ4C-3EeSpk_GHk_uAVQ" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PNdygXc4Ed6LBuiIOANIVw" name="Content" guid="_PNdygXc4Ed6LBuiIOANIVw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PNdygnc4Ed6LBuiIOANIVw" name="Categories" guid="_PNdygnc4Ed6LBuiIOANIVw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PNdyg3c4Ed6LBuiIOANIVw" name="Domains" guid="_PNdyg3c4Ed6LBuiIOANIVw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_fC4UYHmbEd6IMtncZulwRw" name="concepcao_domain" guid="_fC4UYHmbEd6IMtncZulwRw" presentationName="Concepção" workProducts="_KH53kHpREd6pL8HyHB0u_w _KH53knpREd6pL8HyHB0u_w _KH53k3pREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w _KH53l3pREd6pL8HyHB0u_w _KH53mHpREd6pL8HyHB0u_w _KH53mXpREd6pL8HyHB0u_w _KH53lXpREd6pL8HyHB0u_w"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_kLAEwHmbEd6IMtncZulwRw" name="elaboracao_domain" guid="_kLAEwHmbEd6IMtncZulwRw" presentationName="Elaboração" workProducts="_KH53kHpREd6pL8HyHB0u_w _KH53k3pREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w _bI4FQnpREd6pL8HyHB0u_w _KH53l3pREd6pL8HyHB0u_w _KH53mHpREd6pL8HyHB0u_w _bIu7UHpREd6pL8HyHB0u_w _KH53knpREd6pL8HyHB0u_w _bIu7UXpREd6pL8HyHB0u_w _KH53kXpREd6pL8HyHB0u_w _bI4FQHpREd6pL8HyHB0u_w"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_pFHOUHmbEd6IMtncZulwRw" name="construcao_domaisn" guid="_pFHOUHmbEd6IMtncZulwRw" presentationName="Construção" workProducts="_KH53kHpREd6pL8HyHB0u_w _bIu7UHpREd6pL8HyHB0u_w _bIu7UXpREd6pL8HyHB0u_w _KH53kXpREd6pL8HyHB0u_w _bI4FQHpREd6pL8HyHB0u_w _KH53knpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w _bI4FQnpREd6pL8HyHB0u_w _KH53l3pREd6pL8HyHB0u_w _KH53mHpREd6pL8HyHB0u_w"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_rfMrIHmbEd6IMtncZulwRw" name="validacao_domain" guid="_rfMrIHmbEd6IMtncZulwRw" presentationName="Validação" workProducts="_KH53kHpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w _bI4FQnpREd6pL8HyHB0u_w _KH53l3pREd6pL8HyHB0u_w _KH53mHpREd6pL8HyHB0u_w"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PNdyhHc4Ed6LBuiIOANIVw" name="Disciplines" guid="_PNdyhHc4Ed6LBuiIOANIVw">
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_8dhRQHlKEd6Q9KdDavqEGw" name="disciplinas_concepcao" guid="_8dhRQHlKEd6Q9KdDavqEGw" presentationName="Fase de Concepção" briefDescription="A fase de concepção busca uma visão inicial para se trabalhar o sistema, deixando como resultado, a clara visualização do sistema a ser desenvolvido (seu escopo, seus principais requisitose desejos do cliente). &#xD;&#xA;&#xD;&#xA;Todas as atividades desenvolvidas nesta fase têm este fim, e para tanto necessitam da participação ativa do cliente. Trata-se de uma fase marcada por reuniões e discussões onde inicialmente o cliente apresenta sua visão do sistema, e num segundo momento os projetistas apresentam a visão que puderam capturar do mesmo." disciplines="_UnXmIHlLEd6Q9KdDavqEGw _XK-yYHlLEd6Q9KdDavqEGw _a777gHlLEd6Q9KdDavqEGw _dihjQHlLEd6Q9KdDavqEGw">
+            <presentation xmi:id="-6SVjo8vmqXb58vq6RkJMsA" href="uma://-6SVjo8vmqXb58vq6RkJMsA#-6SVjo8vmqXb58vq6RkJMsA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_UnXmIHlLEd6Q9KdDavqEGw" name="requisitos" guid="_UnXmIHlLEd6Q9KdDavqEGw" presentationName="Requisitos Fase de Concepção" briefDescription="A disciplina de requisitos na fase de Concepção é aquela onde se gastará maior tempo e esforço. Ela se inicia com a definição do projeto e termina com a breve descrição dos casos de uso." tasks="_yBKj8HlGEd6Q9KdDavqEGw _MxAqsHlHEd6Q9KdDavqEGw _QkyeUHlHEd6Q9KdDavqEGw _VHEWsHlHEd6Q9KdDavqEGw _Y5EBoHlHEd6Q9KdDavqEGw _c6ZwIHlHEd6Q9KdDavqEGw">
+            <presentation xmi:id="-k2eOejV3qPQBgUk08-MfCg" href="uma://-k2eOejV3qPQBgUk08-MfCg#-k2eOejV3qPQBgUk08-MfCg"/>
+            <referenceWorkflows href="uma://_f7tAMH_lEd62TNYWta-H0w#_b8XAUX_mEd61Af7ua88vmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_XK-yYHlLEd6Q9KdDavqEGw" name="analise_e_projeto" guid="_XK-yYHlLEd6Q9KdDavqEGw" presentationName="Análise e Projeto Fase de Concepção" briefDescription="Grande parte do esforc¸o da fase de concepção para definir uma arquitetura candidata concentra-se na disciplina de análise e projeto. Ela se inicia com a análise do ambiente físico e computacional e das restrições citadas pelo cliente, e é finalizada com a definição da arquitetura candidata." tasks="_Hypy8HlKEd6Q9KdDavqEGw _O-MzoHlKEd6Q9KdDavqEGw _UW3hcHlKEd6Q9KdDavqEGw">
+            <presentation xmi:id="-DUHpvFRISiScnIIKA7aZ6Q" href="uma://-DUHpvFRISiScnIIKA7aZ6Q#-DUHpvFRISiScnIIKA7aZ6Q"/>
+            <referenceWorkflows href="uma://_f7tAMH_lEd62TNYWta-H0w#_dVxDQX_mEd61Af7ua88vmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_a777gHlLEd6Q9KdDavqEGw" name="impl_testes" guid="_a777gHlLEd6Q9KdDavqEGw" presentationName="Implementação e Testes Fase de Concepção" briefDescription="O objetivo da implementação e teste na fase de concepção é a confecção do protótipo das principais telas do sistema. " tasks="_zcPzIHlMEd6Q9KdDavqEGw">
+            <presentation xmi:id="-oEoLSn_T8PYaVkcNH7xJAg" href="uma://-oEoLSn_T8PYaVkcNH7xJAg#-oEoLSn_T8PYaVkcNH7xJAg"/>
+            <referenceWorkflows href="uma://_f7tAMH_lEd62TNYWta-H0w#_lnzK4X_mEd61Af7ua88vmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_dihjQHlLEd6Q9KdDavqEGw" name="gerencia" guid="_dihjQHlLEd6Q9KdDavqEGw" presentationName="Gerência de Processo Fase de Concepção" briefDescription="Na fase de concepção, a disciplina de Planejamento e Gerência é uma das que consome mais tempo. A principal preocupação do Gerente tem que ser criar um plano que seja bem real, com menor taxa de falhas na medida do possível." tasks="_ucgRoH-tEd62TNYWta-H0w _ucgRoX-tEd62TNYWta-H0w _ucgRon-tEd62TNYWta-H0w _ucgRpH-tEd62TNYWta-H0w _ucgRpX-tEd62TNYWta-H0w _ucgRpn-tEd62TNYWta-H0w _ucgRp3-tEd62TNYWta-H0w _ucgRqH-tEd62TNYWta-H0w _ucgRqX-tEd62TNYWta-H0w _ucgRqn-tEd62TNYWta-H0w _ucgRrH-tEd62TNYWta-H0w _ucgRrX-tEd62TNYWta-H0w _ucgRrn-tEd62TNYWta-H0w _pTf_IDbSEeSk0K6nPOXZgA _zBa18DbSEeSk0K6nPOXZgA">
+            <methodElementProperty xmi:id="_w5WTMDbzEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Y696_bHMHdMiyTCtzkTblA" href="uma://-Y696_bHMHdMiyTCtzkTblA#-Y696_bHMHdMiyTCtzkTblA"/>
+            <referenceWorkflows href="uma://_f7tAMH_lEd62TNYWta-H0w#_nrh9MX_mEd61Af7ua88vmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_jvZ_cHlPEd6Q9KdDavqEGw" name="disciplinas_elaboracao" guid="_jvZ_cHlPEd6Q9KdDavqEGw" presentationName="Fase de Elaboração" briefDescription="O propósito da Fase de Elaboração é analisar o domínio do problema, validar uma arquitetura consistente, onde o sistema será desenvolvido, e desenvolver o plano de projeto. &#xD;&#xA;&#xD;&#xA;Embora o processo sempre tenha que acomodar mudanças, as atividades desta fase asseguram que a arquitetura, requisitos e planos são bastante estáveis, podendo-se então, determinar o custo de maneira previsível e programar a conclusão do desenvolvimento." disciplines="_m8veIHlPEd6Q9KdDavqEGw _qi0M8HlPEd6Q9KdDavqEGw _tZNLQHlPEd6Q9KdDavqEGw _w_k1AHlPEd6Q9KdDavqEGw">
+            <presentation xmi:id="-sF1xx58WR-rWAJJS9ew2Dg" href="uma://-sF1xx58WR-rWAJJS9ew2Dg#-sF1xx58WR-rWAJJS9ew2Dg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_m8veIHlPEd6Q9KdDavqEGw" name="requisitos_elaboracao" guid="_m8veIHlPEd6Q9KdDavqEGw" presentationName="Requisitos Fase de Elaboração" briefDescription="O foco da Disciplina de Requisitos na Fase de Elaboração é o detalhamento inicial dos prováveis casos de uso que poderão ser utilizados para validar a arquitetura." tasks="_x3VZAH8ZEd6jc_Qm_XXkmA _JkqJ0HlPEd6Q9KdDavqEGw _TplLYHlPEd6Q9KdDavqEGw _Xw4_AHlPEd6Q9KdDavqEGw _7aG6MHlPEd6Q9KdDavqEGw _GeDv0HlQEd6Q9KdDavqEGw _N5QWEHlQEd6Q9KdDavqEGw">
+            <presentation xmi:id="-kQjVcOA9xmcW0BffwUbZcg" href="uma://-kQjVcOA9xmcW0BffwUbZcg#-kQjVcOA9xmcW0BffwUbZcg"/>
+            <referenceWorkflows href="uma://_f7tAMH_lEd62TNYWta-H0w#_qmPa0X_mEd61Af7ua88vmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_qi0M8HlPEd6Q9KdDavqEGw" name="analise_elaboracao" guid="_qi0M8HlPEd6Q9KdDavqEGw" presentationName="Análise e Projeto Fase de Elaboração" briefDescription="A disciplina de Análise e Projeto desempenha um papel importante para que o objetivo da fase de Elaboração seja atingido. Ela é quem dá forma ao domínio do sistema, gerando um modelo conceitual orientado pelos casos de uso. &#xD;&#xA;&#xD;&#xA;Modelos estáticos e dinâmicos são formulados e servirão como base para a implementação." tasks="_r_jQ0H8aEd6jc_Qm_XXkmA _fLX-IHlQEd6Q9KdDavqEGw _oV4l4HlQEd6Q9KdDavqEGw _vPQRcHlQEd6Q9KdDavqEGw _rswbEHlQEd6Q9KdDavqEGw">
+            <presentation xmi:id="-mMTpn0z-TlZaBs2s2wW-5A" href="uma://-mMTpn0z-TlZaBs2s2wW-5A#-mMTpn0z-TlZaBs2s2wW-5A"/>
+            <referenceWorkflows href="uma://_f7tAMH_lEd62TNYWta-H0w#_sJ7bIX_mEd61Af7ua88vmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_tZNLQHlPEd6Q9KdDavqEGw" name="impl_elaboracao" guid="_tZNLQHlPEd6Q9KdDavqEGw" presentationName="Implementação e Testes Fase de Elaboração" briefDescription="Nas disciplinas anteriores, o caso de uso que justifica toda a Arquitetura foi detalhado, analisado e projetado. Cabe agora a implementação e teste do mesmo. &#xD;&#xA;&#xD;&#xA;Ao final dessa disciplina, o caso de uso deverá ter sido construído seguindo a arquitetura planejada no documento de arquitetura.">
+            <presentation xmi:id="-1ukisYE6PnqDpigHxIjoiA" href="uma://-1ukisYE6PnqDpigHxIjoiA#-1ukisYE6PnqDpigHxIjoiA"/>
+            <referenceWorkflows href="uma://_f7tAMH_lEd62TNYWta-H0w#_tzuqgX_mEd61Af7ua88vmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_w_k1AHlPEd6Q9KdDavqEGw" name="gerencia_elaboracao" guid="_w_k1AHlPEd6Q9KdDavqEGw" presentationName="Gerência de Processo Fase de Elaboração" briefDescription="Durante a Elaboração, e futuramente na Construção, o Gerente trabalha para seguir o plano que foi inicialmente traçado. Dessa forma, é possível dizer que ele realiza apenas pequenos ajustes no macro planejamento inicial." tasks="_-KdJgX-zEd62TNYWta-H0w _-KmTcH-zEd62TNYWta-H0w _ucgRpX-tEd62TNYWta-H0w _ucgRp3-tEd62TNYWta-H0w _ucgRqH-tEd62TNYWta-H0w _ucgRqX-tEd62TNYWta-H0w _-KmTcX-zEd62TNYWta-H0w _-KmTcn-zEd62TNYWta-H0w _ucgRrn-tEd62TNYWta-H0w _ucgRpn-tEd62TNYWta-H0w">
+            <presentation xmi:id="-obGVG4KiSkMl-JePNhvAtQ" href="uma://-obGVG4KiSkMl-JePNhvAtQ#-obGVG4KiSkMl-JePNhvAtQ"/>
+            <referenceWorkflows href="uma://_f7tAMH_lEd62TNYWta-H0w#_vzlCYX_mEd61Af7ua88vmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_FQFnMHlYEd6Q9KdDavqEGw" name="disciplinas_construcao" guid="_FQFnMHlYEd6Q9KdDavqEGw" presentationName="Fase de Construção" briefDescription="Durante a fase de construção, todos os componentes e características restantes da aplicação são desenvolvidos, testados e integrados ao produto. &#xD;&#xA;&#xD;&#xA;A fase de construção é, de certo modo,um processo industrial, no qual é enfocado o gerenciamento de recursos, prazos e qualidade." disciplines="_HQ_H8HlYEd6Q9KdDavqEGw _J59VUHlYEd6Q9KdDavqEGw _NwuLgHlYEd6Q9KdDavqEGw _RHmnwHlYEd6Q9KdDavqEGw">
+            <presentation xmi:id="-wDD8YpZeCeW_CE2Uv-KFug" href="uma://-wDD8YpZeCeW_CE2Uv-KFug#-wDD8YpZeCeW_CE2Uv-KFug"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_HQ_H8HlYEd6Q9KdDavqEGw" name="requisitos_construcao" guid="_HQ_H8HlYEd6Q9KdDavqEGw" presentationName="Requisitos Fase de Construção" briefDescription="As atividades da disciplina de Requisitos nesta fase são praticamente as mesmas da fase anterior. Elas diferem apenas na quantidade de casos de uso detalhados. &#xD;&#xA;&#xD;&#xA;Na fase anterior são detalhados os prováveis casos de uso que podem validar a arquitetura. Já nesta fase, apenas o caso de uso participante da iteração é detalhado." tasks="_A1ZGwH-pEd62TNYWta-H0w _TplLYHlPEd6Q9KdDavqEGw _Xw4_AHlPEd6Q9KdDavqEGw _7aG6MHlPEd6Q9KdDavqEGw _GeDv0HlQEd6Q9KdDavqEGw _N5QWEHlQEd6Q9KdDavqEGw">
+            <referenceWorkflows href="uma://_f7tAMH_lEd62TNYWta-H0w#_yeMOgX_mEd61Af7ua88vmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_J59VUHlYEd6Q9KdDavqEGw" name="analise_construcao" guid="_J59VUHlYEd6Q9KdDavqEGw" presentationName="Análise e Projeto Fase de Construção" briefDescription="Os objetivos da disciplina de Análise e Projeto nesta fase são os mesmos da fase anterior.&#xD;&#xA;&#xD;&#xA;Como não existe a preocupação em validar a arquitetura, seu fluxo de atividades é uma simplificação do anterior." tasks="_fLX-IHlQEd6Q9KdDavqEGw _mjvtAH-qEd62TNYWta-H0w">
+            <presentation xmi:id="-YSoJ_pXJccDw7Vzx5H-81Q" href="uma://-YSoJ_pXJccDw7Vzx5H-81Q#-YSoJ_pXJccDw7Vzx5H-81Q"/>
+            <referenceWorkflows href="uma://_f7tAMH_lEd62TNYWta-H0w#_z2HDsX_mEd61Af7ua88vmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_NwuLgHlYEd6Q9KdDavqEGw" name="impl_construcao" guid="_NwuLgHlYEd6Q9KdDavqEGw" presentationName="Implementação e Testes Fase de Construção" briefDescription="Com a arquitetura do sistema validada na fase de Elaboração, esta disciplina agora tem como objetivo realizar a codificação, ou seja, a implementação e o teste dos componentes pertencentes ao caso de uso, bem como sua integração com a parte do sistema já desenvolvida.">
+            <presentation xmi:id="-IoPBx4uf6-CqdP8YihEvAA" href="uma://-IoPBx4uf6-CqdP8YihEvAA#-IoPBx4uf6-CqdP8YihEvAA"/>
+            <referenceWorkflows href="uma://_f7tAMH_lEd62TNYWta-H0w#_2QL5cX_mEd61Af7ua88vmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_RHmnwHlYEd6Q9KdDavqEGw" name="gerencia_construcao" guid="_RHmnwHlYEd6Q9KdDavqEGw" presentationName="Gerência de Processo Fase de Construção" briefDescription="Durante a Construção, o Gerente trabalha pra manter o desenvolvimento do projeto dentro de uma margem aceitável do que foi planejado. &#xD;&#xA;&#xD;&#xA;Essa fase é um ciclo de entregas de protótipos que, quando finalizada, apresenta um produto quase maduro para ser entregue." tasks="_ucgRpX-tEd62TNYWta-H0w _suYewn-0Ed62TNYWta-H0w _ucgRqH-tEd62TNYWta-H0w _-KmTcn-zEd62TNYWta-H0w _ucgRrn-tEd62TNYWta-H0w _ucgRpn-tEd62TNYWta-H0w">
+            <presentation xmi:id="-o1eOgFendaz7w6FMluYYWA" href="uma://-o1eOgFendaz7w6FMluYYWA#-o1eOgFendaz7w6FMluYYWA"/>
+            <referenceWorkflows href="uma://_f7tAMH_lEd62TNYWta-H0w#_3_WxAX_mEd61Af7ua88vmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_fjvkYHlcEd6Q9KdDavqEGw" name="disciplinas_validacao" guid="_fjvkYHlcEd6Q9KdDavqEGw" presentationName="Fase de Validação" briefDescription="O foco da Fase de Validação é assegurar que o software esteja disponível para seus usuários finais. &#xD;&#xA;&#xD;&#xA;Ela pode atravessar várias iterações e inclui testes do produto em preparação para release e ajustes pequenos com base no feedback do usuário." disciplines="_itp7oHlcEd6Q9KdDavqEGw _lOlnUHlcEd6Q9KdDavqEGw _n2YI8HlcEd6Q9KdDavqEGw _qpfJwHlcEd6Q9KdDavqEGw">
+            <presentation xmi:id="-QeEzpD5UtrZH8CXe5l6KVg" href="uma://-QeEzpD5UtrZH8CXe5l6KVg#-QeEzpD5UtrZH8CXe5l6KVg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_itp7oHlcEd6Q9KdDavqEGw" name="requisitos_validacao" guid="_itp7oHlcEd6Q9KdDavqEGw" presentationName="Requisitos Fase de Validação" briefDescription="A disciplina de requisitos na fase de validação é bastante simples. Ela será executada apenas se novas funcionalidades tiverem sido adicionadas ao sistema.">
+            <presentation xmi:id="-3X5FX4zf9hbRTSm9o4bTXA" href="uma://-3X5FX4zf9hbRTSm9o4bTXA#-3X5FX4zf9hbRTSm9o4bTXA"/>
+            <referenceWorkflows href="uma://_f7tAMH_lEd62TNYWta-H0w#_6TeIsX_mEd61Af7ua88vmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_lOlnUHlcEd6Q9KdDavqEGw" name="analise_validacao" guid="_lOlnUHlcEd6Q9KdDavqEGw" presentationName="Análise e Projeto Fase de Validação" briefDescription="A disciplina de análise e projeto é tão simples quanto a anterior. ">
+            <presentation xmi:id="-rGYWaU0Vb9lNzcMQbEM0_A" href="uma://-rGYWaU0Vb9lNzcMQbEM0_A#-rGYWaU0Vb9lNzcMQbEM0_A"/>
+            <referenceWorkflows href="uma://_f7tAMH_lEd62TNYWta-H0w#_7imOQX_mEd61Af7ua88vmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_n2YI8HlcEd6Q9KdDavqEGw" name="impl_validacao" guid="_n2YI8HlcEd6Q9KdDavqEGw" presentationName="Implementação e Testes Fase de Validação" briefDescription="Nesta fase, o foco principal da disciplina de Implementação é realizar os testes do produto em preparação para release, bem como ajustes pequenos com base no feedback do cliente. &#xD;&#xA;&#xD;&#xA;Trata-se de uma disciplina intensa e plenamente relevante nesta fase do projeto." tasks="_SxcEoHleEd6Q9KdDavqEGw _XP1ikHleEd6Q9KdDavqEGw _dQSCEHleEd6Q9KdDavqEGw _oDjXYHleEd6Q9KdDavqEGw _rHgQkHleEd6Q9KdDavqEGw _xEhooHleEd6Q9KdDavqEGw _OjKQ4HlfEd6Q9KdDavqEGw">
+            <presentation xmi:id="-SlP_Ns9dv74VWXaGe2dRLg" href="uma://-SlP_Ns9dv74VWXaGe2dRLg#-SlP_Ns9dv74VWXaGe2dRLg"/>
+            <referenceWorkflows href="uma://_f7tAMH_lEd62TNYWta-H0w#_89MkAH_mEd61Af7ua88vmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_qpfJwHlcEd6Q9KdDavqEGw" name="gerencia_validacao" guid="_qpfJwHlcEd6Q9KdDavqEGw" presentationName="Gerência de Processo Fase de Validação" briefDescription="Durante a fase de validação, a disciplina de Gerência de Processo tem com objetivo entregar o Sistema de uma forma satisfatória, verificando sempre a aceitação do cliente como critério de finalização do projeto. &#xD;&#xA;&#xD;&#xA;Para isso, os trabalhadores cuidam para que o sistema funcione bem no ambiente onde será executado." tasks="_ouy3UHlfEd6Q9KdDavqEGw _wWzxkHlfEd6Q9KdDavqEGw _-y-gMHlfEd6Q9KdDavqEGw _CT1X0HlgEd6Q9KdDavqEGw _ucgRqH-tEd62TNYWta-H0w _NYibYHlgEd6Q9KdDavqEGw _-KmTcn-zEd62TNYWta-H0w _ucgRrn-tEd62TNYWta-H0w _STi80HlgEd6Q9KdDavqEGw _ucgRpn-tEd62TNYWta-H0w">
+            <presentation xmi:id="-45Xt1Ua2BJpBzUH2rbU1wA" href="uma://-45Xt1Ua2BJpBzUH2rbU1wA#-45Xt1Ua2BJpBzUH2rbU1wA"/>
+            <referenceWorkflows href="uma://_f7tAMH_lEd62TNYWta-H0w#_-uvaIX_mEd61Af7ua88vmw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PNdyhXc4Ed6LBuiIOANIVw" name="RoleSets" guid="_PNdyhXc4Ed6LBuiIOANIVw">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_urKGQHmaEd6IMtncZulwRw" name="gerenciamento" guid="_urKGQHmaEd6IMtncZulwRw" presentationName="Gerência" briefDescription="Conjunto de Papéis que desempenham ou participam das atividades referentes à Gerência do projeto." roles="_OlqUAnmbEd6IMtncZulwRw _OlqUAXmbEd6IMtncZulwRw"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_2VacMHmaEd6IMtncZulwRw" name="analise" guid="_2VacMHmaEd6IMtncZulwRw" presentationName="Análise" briefDescription="Conjunto de papéis que desempenham ou participam de atividades referentes à análise do sistema." roles="_1hmzUH7BEd6MaYaawFYtMQ _OlqUAXmbEd6IMtncZulwRw"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_dIm8oH8YEd6jc_Qm_XXkmA" name="projeto" guid="_dIm8oH8YEd6jc_Qm_XXkmA" presentationName="Projeto" briefDescription="Conjunto de Papéis que desempenham ou participam de atividades referentes ao projeto do sistema." roles="_ecteEH7yEd66CsJhS3fIDw _5008AH7BEd6MaYaawFYtMQ"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_smMsAH8YEd6jc_Qm_XXkmA" name="implementacao_e_testes" guid="_smMsAH8YEd6jc_Qm_XXkmA" presentationName="Implementação e Testes" briefDescription="Conjunto de Papéis que desempenham ou participam de atividades referentes à implementação e aos testes do sistema." roles="_9f0nEH7BEd6MaYaawFYtMQ _3b8ZEH7BEd6MaYaawFYtMQ"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PNdyhnc4Ed6LBuiIOANIVw" name="WP Types" guid="_PNdyhnc4Ed6LBuiIOANIVw">
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_SUY9oHmdEd6IMtncZulwRw" name="documentos_texto" guid="_SUY9oHmdEd6IMtncZulwRw" presentationName="Documentos em Texto" briefDescription="Os documentos texto têm a função de fornecer descrições detalhadas de especificações de diversas ordens e procedimentos a serem realizados ao longo do desenvolvimento." workProducts="_KH53kHpREd6pL8HyHB0u_w _KH53knpREd6pL8HyHB0u_w _KH53k3pREd6pL8HyHB0u_w _KH53lXpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w _bI4FQnpREd6pL8HyHB0u_w _KH53l3pREd6pL8HyHB0u_w _KH53mHpREd6pL8HyHB0u_w"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_jrHY4HmdEd6IMtncZulwRw" name="codigos_fontes" guid="_jrHY4HmdEd6IMtncZulwRw" presentationName="Códigos Fontes" briefDescription="Os Códigos Fontes são gerados no momento da implementação dos casos de uso em uma linguagem de programação específica. Os códigos gerados são disponibilizados em repositório, que é configurado para acesso de todos os componentes da equipe que tenham participação efetiva no processo de implementação do projeto de software." workProducts="_bIu7UHpREd6pL8HyHB0u_w"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_t-DBQHmdEd6IMtncZulwRw" name="imagem_html" guid="_t-DBQHmdEd6IMtncZulwRw" presentationName="Imagens ou Arquivos HTML" briefDescription="As imagens ou arquivos HTML servem para dar suporte ao desenvolvimento e à compreensão do projeto, sobretudo no momento da comunicação com o cliente." workProducts="_KH53mXpREd6pL8HyHB0u_w"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_zD79AHmdEd6IMtncZulwRw" name="diagramas_uml" guid="_zD79AHmdEd6IMtncZulwRw" presentationName="Diagramas UML" briefDescription="Os diagramas UML são representações esquemáticas de processos específicos do projeto, que caracterizam a modelagem do projeto, dando suporte ao desenvolvimento." workProducts="_bIu7UXpREd6pL8HyHB0u_w _KH53kXpREd6pL8HyHB0u_w _bI4FQHpREd6pL8HyHB0u_w"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PNdyh3c4Ed6LBuiIOANIVw" name="Tools" guid="_PNdyh3c4Ed6LBuiIOANIVw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PNdyiHc4Ed6LBuiIOANIVw" name="StandardCategories" guid="_PNdyiHc4Ed6LBuiIOANIVw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PNdyiXc4Ed6LBuiIOANIVw" name="CustomCategories" guid="_PNdyiXc4Ed6LBuiIOANIVw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PNdyinc4Ed6LBuiIOANIVw" name="Hidden" guid="_PNdyinc4Ed6LBuiIOANIVw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_PNdyi3c4Ed6LBuiIOANIVw" name="Custom Categories" guid="_PNdyi3c4Ed6LBuiIOANIVw" categorizedElements="_PoqEsHuhEd64wKJP97lW7A _xAn70IF8Ed6TxI46WhMwMg _10VicIF8Ed6TxI46WhMwMg"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_PoqEsHuhEd64wKJP97lW7A" name="visao_geral_do_paad" guid="_PoqEsHuhEd64wKJP97lW7A" presentationName="Visão Geral - PAAD" nodeicon="customcategories/resources/concept_obj.gif">
+            <methodElementProperty xmi:id="_gGrB8DntEeSQFudhAXKiDQ" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_f7tAMH_lEd62TNYWta-H0w#_f7tAMX_lEd62TNYWta-H0w"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_zw-pEIAHEd6eXbvB7wA9gw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_oySRcIAIEd6eXbvB7wA9gw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_WaSxAIAJEd6eXbvB7wA9gw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_zw-pEIAHEd6eXbvB7wA9gw" name="atividades do processo" guid="_zw-pEIAHEd6eXbvB7wA9gw" presentationName="Atividades do Processo" briefDescription="O PAAD é um processo iterativo e incremental Ágil que se organiza, como no Processo Uniificado,em fases e disciplinas." nodeicon="customcategories/resources/about.gif" categorizedElements="_8dhRQHlKEd6Q9KdDavqEGw _jvZ_cHlPEd6Q9KdDavqEGw _FQFnMHlYEd6Q9KdDavqEGw _fjvkYHlcEd6Q9KdDavqEGw">
+            <methodElementProperty xmi:id="_V_EXQDnWEeSQFudhAXKiDQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-rwKHw7wT4z_3-fCh7CZR4Q" href="uma://-rwKHw7wT4z_3-fCh7CZR4Q#-rwKHw7wT4z_3-fCh7CZR4Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_oySRcIAIEd6eXbvB7wA9gw" name="role_sets" guid="_oySRcIAIEd6eXbvB7wA9gw" presentationName="Papéis do Processo" nodeicon="customcategories/resources/roles_obj.gif" categorizedElements="_2VacMHmaEd6IMtncZulwRw _dIm8oH8YEd6jc_Qm_XXkmA _smMsAH8YEd6jc_Qm_XXkmA _urKGQHmaEd6IMtncZulwRw"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_WaSxAIAJEd6eXbvB7wA9gw" name="artefatos" guid="_WaSxAIAJEd6eXbvB7wA9gw" presentationName="Artefatos do PAS" nodeicon="customcategories/resources/workproducts_obj.gif" categorizedElements="_jrHY4HmdEd6IMtncZulwRw _zD79AHmdEd6IMtncZulwRw _SUY9oHmdEd6IMtncZulwRw _t-DBQHmdEd6IMtncZulwRw _huuBYJJ6Ed66foGdT4dnPg"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xAn70IF8Ed6TxI46WhMwMg" name="artefatos_do_paad" guid="_xAn70IF8Ed6TxI46WhMwMg" presentationName="Artefatos do PAAD" nodeicon="customcategories/resources/workproducts_obj.gif" categorizedElements="_jrHY4HmdEd6IMtncZulwRw _zD79AHmdEd6IMtncZulwRw _SUY9oHmdEd6IMtncZulwRw _t-DBQHmdEd6IMtncZulwRw _huuBYJJ6Ed66foGdT4dnPg">
+            <methodElementProperty xmi:id="_d1YUwDntEeSQFudhAXKiDQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_10VicIF8Ed6TxI46WhMwMg" name="papeis_do_paad" guid="_10VicIF8Ed6TxI46WhMwMg" presentationName="Papéis do PAAD" nodeicon="customcategories/resources/roles_obj.gif" categorizedElements="_2VacMHmaEd6IMtncZulwRw _urKGQHmaEd6IMtncZulwRw _smMsAH8YEd6jc_Qm_XXkmA _dIm8oH8YEd6jc_Qm_XXkmA">
+            <methodElementProperty xmi:id="_fP1gkDntEeSQFudhAXKiDQ" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PNdyjHc4Ed6LBuiIOANIVw" name="CoreContent" guid="_PNdyjHc4Ed6LBuiIOANIVw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_VGnXMHc4Ed6LBuiIOANIVw" name="concepcao_content_package" guid="_VGnXMHc4Ed6LBuiIOANIVw" presentationName="Concepção Content Package" briefDescription="Elementos necessários à fase de concepção do PAS">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yBKj8HlGEd6Q9KdDavqEGw" name="1_definir_projeto" guid="_yBKj8HlGEd6Q9KdDavqEGw" presentationName="Cliente Define o Projeto a ser Desenvolvido" briefDescription="A definição do projeto ocorre através de uma entrevista com o cliente, onde o mesmo expõe&#xD;&#xA;o problema que deseja solucionar. Se o problema for entendido pela equipe de desenvolvimento,&#xD;&#xA;passa-se para a definição do escopo, senão entrevista-se novamente o cliente, até que se tenha&#xD;&#xA;entendimento do problema." performedBy="_OlqUAXmbEd6IMtncZulwRw" additionallyPerformedBy="_1hmzUH7BEd6MaYaawFYtMQ">
+            <presentation xmi:id="-oUQf37td0ohg4nqpm1SIUQ" href="uma://-oUQf37td0ohg4nqpm1SIUQ#-oUQf37td0ohg4nqpm1SIUQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MxAqsHlHEd6Q9KdDavqEGw" name="2_definir_escopo" guid="_MxAqsHlHEd6Q9KdDavqEGw" presentationName="Definir Escopo do Problema" briefDescription="Com o problema entendido, o seu escopo é definido. Esse escopo define o trabalho necessário para concluir o projeto, servindo como um guia (ou ponto de referência) para determinar que trabalho não está incluído ou não é necessário) no projeto. Ou seja, após sua definição, sabe-se o que está dentro e o que está fora do projeto, de maneira clara e sem ambiguidades." performedBy="_1hmzUH7BEd6MaYaawFYtMQ">
+            <presentation xmi:id="-IQdvirST4DmYsso-5nfK8Q" href="uma://-IQdvirST4DmYsso-5nfK8Q#-IQdvirST4DmYsso-5nfK8Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QkyeUHlHEd6Q9KdDavqEGw" name="3_definir_funcionalidades" guid="_QkyeUHlHEd6Q9KdDavqEGw" presentationName="Definir Funcionalidades e as Restrições do Sistema" briefDescription="Dentro do escopo delimitado, são definidas as funcionalidades e restrições do sistema." performedBy="_1hmzUH7BEd6MaYaawFYtMQ">
+            <methodElementProperty xmi:id="_372lEDRgEeSS4sOESi8BXw" name="me_edited" value="true"/>
+            <presentation xmi:id="-s_svv8NowTHsEa_5WlazbA" href="uma://-s_svv8NowTHsEa_5WlazbA#-s_svv8NowTHsEa_5WlazbA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VHEWsHlHEd6Q9KdDavqEGw" name="4_dividir_em_cdus" guid="_VHEWsHlHEd6Q9KdDavqEGw" presentationName="Dividir o Problema em Casos de Uso" briefDescription="Após a definição das funcionalidades do sistema, estas são divididas em Casos de Uso. Esta atividade co-relaciona-se com a atividade de análise e projeto onde é construído o modelo de casos de uso." performedBy="_1hmzUH7BEd6MaYaawFYtMQ" output="_KH53kXpREd6pL8HyHB0u_w">
+            <presentation xmi:id="-spS3xdeknXNzGJhjg-Q4tw" href="uma://-spS3xdeknXNzGJhjg-Q4tw#-spS3xdeknXNzGJhjg-Q4tw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Y5EBoHlHEd6Q9KdDavqEGw" name="5_classificar_cdus" guid="_Y5EBoHlHEd6Q9KdDavqEGw" presentationName="Classificar Casos de Uso por Módulo de Sistema " briefDescription="Os casos de uso são classificados associoandos com as funcinalidades do sistema." performedBy="_1hmzUH7BEd6MaYaawFYtMQ" additionallyPerformedBy="_ecteEH7yEd66CsJhS3fIDw">
+            <methodElementProperty xmi:id="_GyebEDRhEeSS4sOESi8BXw" name="me_edited" value="true"/>
+            <presentation xmi:id="-tnNHksTnB63MyH6FCZtCvQ" href="uma://-tnNHksTnB63MyH6FCZtCvQ#-tnNHksTnB63MyH6FCZtCvQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_c6ZwIHlHEd6Q9KdDavqEGw" name="6_descrever_cdus" guid="_c6ZwIHlHEd6Q9KdDavqEGw" presentationName="Descrever Brevemente Casos de Uso" briefDescription="Após a classificação quanto a funcionalidade, descreve-se brevemente os casos de uso, identificando os atores que o executam." performedBy="_1hmzUH7BEd6MaYaawFYtMQ" output="_KH53kXpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w _KH53lXpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_XMNpoDRhEeSS4sOESi8BXw" name="me_edited" value="true"/>
+            <presentation xmi:id="-TCgkm9mxruR7gbBUKk2zrw" href="uma://-TCgkm9mxruR7gbBUKk2zrw#-TCgkm9mxruR7gbBUKk2zrw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Hypy8HlKEd6Q9KdDavqEGw" name="7_analisar_mod_cdu" guid="_Hypy8HlKEd6Q9KdDavqEGw" presentationName="Analisar Modelo de Caso de Uso" briefDescription="Essa atividade tem por objetivo verificar alguma possível incompatibilidade entre o modelo de casos de uso e as necessidades do cliente. Caso alguma incompatibilidade seja encontrada, ajusta-se o modelo de casos de uso." performedBy="_ecteEH7yEd66CsJhS3fIDw" mandatoryInput="_KH53kXpREd6pL8HyHB0u_w" output="_KH53kXpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_qkFKUDRuEeSS4sOESi8BXw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_O-MzoHlKEd6Q9KdDavqEGw" name="8_reunir_equipe" guid="_O-MzoHlKEd6Q9KdDavqEGw" presentationName="Reunir Equipe e Cliente para Avaliação da Arquitetura Candidata" briefDescription="Com o modelo de casos de uso refletindo as reais necessidade do cliente, é feita uma reunião entre equipe de desenvolvimento e cliente, com a finalidade de avaliar a Arquitetura Candidata. " performedBy="_ecteEH7yEd66CsJhS3fIDw" mandatoryInput="_KH53kXpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w" output="_KH53kHpREd6pL8HyHB0u_w" additionallyPerformedBy="_OlqUAnmbEd6IMtncZulwRw">
+            <methodElementProperty xmi:id="_7VZ9ADRvEeSS4sOESi8BXw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UW3hcHlKEd6Q9KdDavqEGw" name="9_elaborar_doc_arq" guid="_UW3hcHlKEd6Q9KdDavqEGw" presentationName="Definir Arquitetura (Documento de Arquitetura do Sistema)" briefDescription="Caso cliente e equipe estejam de acordo, elabora-se o esboço da arquitetura candidata. Caso contrário, é realizada uma nova análise do modelo de casos de uso, ajustando-se o que for necessário, sendo apresentada a arquitetura em uma nova reunião. Tais atividades se repetem até que cliente e equipe de desenvolvimento entrem em acordo." performedBy="_ecteEH7yEd66CsJhS3fIDw" mandatoryInput="_KH53kXpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w" output="_KH53k3pREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_url6oDRgEeSS4sOESi8BXw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_zcPzIHlMEd6Q9KdDavqEGw" name="10_confeccionar_prototipo" guid="_zcPzIHlMEd6Q9KdDavqEGw" presentationName="Confeccionar um Protótipo contendo as Telas Iniciais do Novo Sistema" briefDescription="A partir das telas capturadas (em caso de sistema legado) ou da coleta das necessidades de usabilidade do cliente, deve-se confeccionar o protótipo da interface de usuário." performedBy="_9f0nEH7BEd6MaYaawFYtMQ" output="_KH53mXpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_2PH4UDRyEeSS4sOESi8BXw" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R2JioHdREd6LBuiIOANIVw" name="elaboracao_construcao_content_package" guid="_R2JioHdREd6LBuiIOANIVw" presentationName="Elaboração e Construção Content Package" briefDescription="Elementos necessários às Fase de Elaboração e Construção do PAS">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_JkqJ0HlPEd6Q9KdDavqEGw" name="2_Implementar_cdu_escolhido_Arquitetura" guid="_JkqJ0HlPEd6Q9KdDavqEGw" presentationName="Iniciar implementação do (s) Caso (s) de Uso Escolhido (s) para Validar Arquitetura" briefDescription="Após escolhidos os casos de uso, é realizado a implementação . A partir do  Documento de Especificação de Caso de Uso, que contém as informações necessárias será implementado para validar a arquitetura proposta." performedBy="_5008AH7BEd6MaYaawFYtMQ" mandatoryInput="_KH53kXpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w" output="_bI4FQnpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_PkNjADa9EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TplLYHlPEd6Q9KdDavqEGw" name="3_consultar_cliente" guid="_TplLYHlPEd6Q9KdDavqEGw" presentationName="Consultar ou Entrevistar Cliente" briefDescription="Caso venham a surgir dúvidas, inseguranças ou inconsistências no detalhamento, o cliente será entrevistado ou consultado por algum meio de comunicação. Após sanar a dúvida, realiza-se novamente a primeira atividade, ajustando o que for necessário." performedBy="_OlqUAnmbEd6IMtncZulwRw" mandatoryInput="_bI4FQnpREd6pL8HyHB0u_w" additionallyPerformedBy="_5008AH7BEd6MaYaawFYtMQ">
+            <methodElementProperty xmi:id="_TrPCwDa9EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+            <presentation xmi:id="-N3POD1n3tDxixvXRQ_2Z_w" href="uma://-N3POD1n3tDxixvXRQ_2Z_w#-N3POD1n3tDxixvXRQ_2Z_w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Xw4_AHlPEd6Q9KdDavqEGw" name="4_identificar_mudancas_requisitos" guid="_Xw4_AHlPEd6Q9KdDavqEGw" presentationName="Identificar Mudanças nos Requisitos" briefDescription="Após detalhar o caso de uso, é feita uma revisão nos requisitos, o que pode ocasionar necessidade de alterações nos requisitos." performedBy="_5008AH7BEd6MaYaawFYtMQ" mandatoryInput="_bI4FQnpREd6pL8HyHB0u_w" additionallyPerformedBy="_1hmzUH7BEd6MaYaawFYtMQ">
+            <methodElementProperty xmi:id="_XGwHYDa9EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+            <presentation xmi:id="-FgdoIQr6zeAxJJcAMzDC7A" href="uma://-FgdoIQr6zeAxJJcAMzDC7A#-FgdoIQr6zeAxJJcAMzDC7A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7aG6MHlPEd6Q9KdDavqEGw" name="5_atualizar_diagramas_cdus_classes" guid="_7aG6MHlPEd6Q9KdDavqEGw" presentationName="Atualizar Diagrama de Casos de Uso e de Classes" briefDescription="Se houver mudanças de requisitos após a atividade anterior, que acarrete a necessidade de surgimento de novo caso de uso, o mesmo é acrescentado ao diagrama geral de casos de uso, isso vale para o digrama de classe do sistema também." performedBy="_1hmzUH7BEd6MaYaawFYtMQ" mandatoryInput="_KH53kXpREd6pL8HyHB0u_w" output="_KH53kXpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_YV-TkDa9EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+            <presentation xmi:id="-rOC5A-aK2if3vWNEvOw7lw" href="uma://-rOC5A-aK2if3vWNEvOw7lw#-rOC5A-aK2if3vWNEvOw7lw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_GeDv0HlQEd6Q9KdDavqEGw" name="6_atualizar_doc_visao_arquitetura" guid="_GeDv0HlQEd6Q9KdDavqEGw" presentationName="Atualizar Documento de Visão e de Arquitetura de acordo com as mudanças propostas." briefDescription="Se forem encontradas mudanças que não impliquem em novo caso de uso, altera-se apenas o documento de visão.&#xD;&#xA;Tendo ocorrido necessidade de ajuste da arquitetura, procede-se à atualização do documento de arquitetura." performedBy="_1hmzUH7BEd6MaYaawFYtMQ" mandatoryInput="_KH53lnpREd6pL8HyHB0u_w" output="_KH53lnpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_Zs8GgDa9EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+            <presentation xmi:id="-PX6BAXRzgBE88OnjC5VBCA" href="uma://-PX6BAXRzgBE88OnjC5VBCA#-PX6BAXRzgBE88OnjC5VBCA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_N5QWEHlQEd6Q9KdDavqEGw" name="10_realizar_analise_e_projeto" guid="_N5QWEHlQEd6Q9KdDavqEGw" presentationName="Realizar Análise e Projeto" briefDescription="Concluídas todas as atividades desse fluxo, dá-se início à disciplina de análise e projeto." performedBy="_5008AH7BEd6MaYaawFYtMQ" mandatoryInput="_bI4FQnpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_ctoQUDa9EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+            <presentation xmi:id="-7id6tU25cTwD8CE-XIr3Cw" href="uma://-7id6tU25cTwD8CE-XIr3Cw#-7id6tU25cTwD8CE-XIr3Cw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_fLX-IHlQEd6Q9KdDavqEGw" name="7_elaborar_diagrama_de_interacao" guid="_fLX-IHlQEd6Q9KdDavqEGw" presentationName="Elaborar Diagrama de Interação de Objetos" briefDescription="Após identificados os conceitos e operações do Caso de Uso selecionado, procede-se à elaboração do diagrama de interação de objetos do mesmo." performedBy="_5008AH7BEd6MaYaawFYtMQ" mandatoryInput="_bI4FQnpREd6pL8HyHB0u_w" output="_bI4FQHpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_4GxLsDa9EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+            <presentation xmi:id="-_hOmc1QYeW7jsUwuwSto4A" href="uma://-_hOmc1QYeW7jsUwuwSto4A#-_hOmc1QYeW7jsUwuwSto4A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_oV4l4HlQEd6Q9KdDavqEGw" name="11_implementar_cdu" guid="_oV4l4HlQEd6Q9KdDavqEGw" presentationName="Realizar a Disciplina de Implementação e Teste para o Caso de Uso Selecionado da SPRINT" briefDescription="Realiza-se Implementação e teste do Caso de Uso detalhado para a SPRINT, a fim de confirmar se o mesmo valida a arquitetura com sucesso." performedBy="_3b8ZEH7BEd6MaYaawFYtMQ" mandatoryInput="_bIu7UXpREd6pL8HyHB0u_w _bI4FQHpREd6pL8HyHB0u_w _bI4FQnpREd6pL8HyHB0u_w" output="_bIu7UHpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_CBhkoDa-EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rswbEHlQEd6Q9KdDavqEGw" name="8_redefinir_arq" guid="_rswbEHlQEd6Q9KdDavqEGw" presentationName="Redefinir toda a Arquitetura" briefDescription="Se após a implementação do caso de uso detalhado, identificar-se que não houve validação da arquitetura, executa-se essa atividade." performedBy="_5008AH7BEd6MaYaawFYtMQ" mandatoryInput="_bIu7UHpREd6pL8HyHB0u_w _bIu7UXpREd6pL8HyHB0u_w _bI4FQHpREd6pL8HyHB0u_w _bI4FQnpREd6pL8HyHB0u_w _KH53k3pREd6pL8HyHB0u_w" additionallyPerformedBy="_ecteEH7yEd66CsJhS3fIDw">
+            <methodElementProperty xmi:id="_bxScgDbAEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vPQRcHlQEd6Q9KdDavqEGw" name="9_ajustar_arq" guid="_vPQRcHlQEd6Q9KdDavqEGw" presentationName="Ajustar a Arquitetura" briefDescription="Se houver possibilidade de ajustar a arquitetura para a implementação do caso de uso detalhado, sem a necessidade de redefinição da mesma, executa-se essa atividade." performedBy="_ecteEH7yEd66CsJhS3fIDw" mandatoryInput="_bIu7UHpREd6pL8HyHB0u_w _bIu7UXpREd6pL8HyHB0u_w _bI4FQHpREd6pL8HyHB0u_w _KH53k3pREd6pL8HyHB0u_w _bI4FQnpREd6pL8HyHB0u_w" additionallyPerformedBy="_5008AH7BEd6MaYaawFYtMQ">
+            <methodElementProperty xmi:id="_bng1cDbAEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_x3VZAH8ZEd6jc_Qm_XXkmA" name="1_escolher_cdus" guid="_x3VZAH8ZEd6jc_Qm_XXkmA" presentationName="Escolher Casos de Uso para Validar a Arquitetura" briefDescription="Antes de inciar o detalhamento, são escolhidos os casos de uso que poderão ser desenvolvidos para validar a arquiterura. Essa escolha é feita levando-se em consideração a complexidade e a abragência do caso de uso em relação à arquitetura. Mais de uma caso de uso é escolhido, pois&#xD;&#xA;o seu detalhamento é quem vai definir qual deles é o mais adequado para realizar a validação da arquitetura." performedBy="_5008AH7BEd6MaYaawFYtMQ" mandatoryInput="_KH53kXpREd6pL8HyHB0u_w _KH53k3pREd6pL8HyHB0u_w" additionallyPerformedBy="_ecteEH7yEd66CsJhS3fIDw">
+            <methodElementProperty xmi:id="_F2DJsDa_EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_r_jQ0H8aEd6jc_Qm_XXkmA" name="13_revisar_doc_visao_Arquitetura_Especificações" guid="_r_jQ0H8aEd6jc_Qm_XXkmA" presentationName="Revisar Documento de Visão, Arquitetura e Especificação de Casos de Uso" briefDescription="Essa revisão possibilita uma escolha mais adequada do caso de uso a ser utilizado na validação da arquitetura." performedBy="_1hmzUH7BEd6MaYaawFYtMQ _ecteEH7yEd66CsJhS3fIDw _5008AH7BEd6MaYaawFYtMQ" mandatoryInput="_KH53kXpREd6pL8HyHB0u_w _KH53k3pREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w _bI4FQnpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_y6isgDa_EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_A1ZGwH-pEd62TNYWta-H0w" name="0_detalhar_cdu" guid="_A1ZGwH-pEd62TNYWta-H0w" presentationName="Iniciar o Detalhamento dos Casos de Usos" briefDescription="Inicia-se o detalhamento de todos  os casos de uso do sistema." performedBy="_5008AH7BEd6MaYaawFYtMQ" mandatoryInput="_KH53kXpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w" output="_bI4FQnpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_4rs6MDa8EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mjvtAH-qEd62TNYWta-H0w" name="12_executar_implementacao" guid="_mjvtAH-qEd62TNYWta-H0w" presentationName="Executar Implementação do Projeto" briefDescription="Executa-se a implementação dos casos de uso escolhidos para a SPRINT." performedBy="_3b8ZEH7BEd6MaYaawFYtMQ" mandatoryInput="_bIu7UXpREd6pL8HyHB0u_w _bI4FQHpREd6pL8HyHB0u_w _bI4FQnpREd6pL8HyHB0u_w" output="_bIu7UHpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_HzF6oDa-EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6nL3MDcDEeSk0K6nPOXZgA" name="1.a_eslher_cdus" guid="_6nL3MDcDEeSk0K6nPOXZgA" presentationName="Escolher caso de uso para ser implementado na iteração" briefDescription="A partir dos documentos de especificações dos casos de usos, começa-se a implemetar de acordo com está espeficificado." performedBy="_3b8ZEH7BEd6MaYaawFYtMQ" additionallyPerformedBy="_5008AH7BEd6MaYaawFYtMQ">
+            <methodElementProperty xmi:id="_NLxMsDcEEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_q8roAHlbEd6Q9KdDavqEGw" name="validacao_content_package" guid="_q8roAHlbEd6Q9KdDavqEGw" presentationName="Validação Content Package" briefDescription="Pacote de Elementos Necessários à Fase de Validação do PAS.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_SxcEoHleEd6Q9KdDavqEGw" name="1_planejar_testes_alfa" guid="_SxcEoHleEd6Q9KdDavqEGw" presentationName="Planejar Testes Alfa em Ambiente de Desenvolvimento" briefDescription="No primeiro momento da disciplina de Implementação e Testes da fase de Validação, são planejados os testes no ambiente de desenvolvimento (testes alfa)." performedBy="_3b8ZEH7BEd6MaYaawFYtMQ" mandatoryInput="_bIu7UHpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_0O0RcDa3EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_XP1ikHleEd6Q9KdDavqEGw" name="2_executar_testes_alfa" guid="_XP1ikHleEd6Q9KdDavqEGw" presentationName="Executar Testes Alfa em Build Estável no Ambiente de Desenvolvimento" briefDescription="São executados os testes alfa em ambiente de desenvolvimento." performedBy="_3b8ZEH7BEd6MaYaawFYtMQ" output="_bIu7UHpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_1s6nIDa3EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dQSCEHleEd6Q9KdDavqEGw" name="3_verificar_necessidade_de_remodelagem" guid="_dQSCEHleEd6Q9KdDavqEGw" presentationName="Verificar se Necessita passar por Implementação ou se deve passar por Remodelagem" briefDescription="Caso tenham sido detectados erros no sistema a partir dos testes alfa, executa-se essa atividade." performedBy="_3b8ZEH7BEd6MaYaawFYtMQ" mandatoryInput="_bIu7UHpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_2oCyoDa3EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_oDjXYHleEd6Q9KdDavqEGw" name="4_implementar_correcoes" guid="_oDjXYHleEd6Q9KdDavqEGw" presentationName="Implementar Correção de Erros" briefDescription="Executa-se essa atividade após a remodelagem solicitada após os testes alfa. Caso os erros detectados nos testes alfa não identifiquem necessidade de remodelagem, passa-se para essa atividade sem remodelar." performedBy="_3b8ZEH7BEd6MaYaawFYtMQ" mandatoryInput="_bIu7UHpREd6pL8HyHB0u_w" output="_bIu7UHpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_3rLDkDa3EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rHgQkHleEd6Q9KdDavqEGw" name="5_iniciar_alteracoes_de_modelagem" guid="_rHgQkHleEd6Q9KdDavqEGw" presentationName="Iniciar Alterações de Modelagem em Disciplina de Análise e Projeto" briefDescription="Caso sejam identificadas necessidades de remodelagem após os testes alfa, executa-se essa atividade." performedBy="_5008AH7BEd6MaYaawFYtMQ" mandatoryInput="_bIu7UXpREd6pL8HyHB0u_w _bI4FQHpREd6pL8HyHB0u_w _bI4FQnpREd6pL8HyHB0u_w" output="_bIu7UXpREd6pL8HyHB0u_w _bI4FQHpREd6pL8HyHB0u_w _bI4FQnpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_4q-6wDa3EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xEhooHleEd6Q9KdDavqEGw" name="6_executar_build" guid="_xEhooHleEd6Q9KdDavqEGw" presentationName="Executar Builds Necessários, Integrar (caso necessário) e criar um Release" briefDescription="Caso os testes alfa não detectem erros, executa-se essa atividade." performedBy="_3b8ZEH7BEd6MaYaawFYtMQ" mandatoryInput="_bIu7UHpREd6pL8HyHB0u_w" output="_bIu7UHpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_5lpMMDa3EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_OjKQ4HlfEd6Q9KdDavqEGw" name="8_gerar_relatorio_de_teste_beta" guid="_OjKQ4HlfEd6Q9KdDavqEGw" presentationName="Gerar Relatório com Dados Coletados" briefDescription="Após a realização dos teses beta, são gerados relatórios com os resultados que irão definir se o sistema foi ou não aprovado." performedBy="_3b8ZEH7BEd6MaYaawFYtMQ">
+            <methodElementProperty xmi:id="_6uC-sDa3EeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__4scUDgwEeSw2dACrKM1QA" name="9_realiza_analise_evolutiva" guid="__4scUDgwEeSw2dACrKM1QA" presentationName="Realizar Analise de Evolução do Projeto" briefDescription="Concluídas todas as implementações dos casos de usos do sistema, inicia-se uma nova etapa para analisar como o  projeto pode ser evoluído, melhorando a peformasse do projeto." performedBy="_1hmzUH7BEd6MaYaawFYtMQ _5008AH7BEd6MaYaawFYtMQ _OlqUAXmbEd6IMtncZulwRw">
+            <methodElementProperty xmi:id="_xWPNkDgyEeSw2dACrKM1QA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_l2OjgDgxEeSw2dACrKM1QA" name="10_realizar_analise_e_projeto_construcao" guid="_l2OjgDgxEeSw2dACrKM1QA" presentationName="Realizara Disciplina de Análise e Projeto da Fase de Contrução" briefDescription="Caso  tenham sido acresentados novos casos de usos para evolução do projeto, realiza- se a disciplina de análise e projeto da fase de construção.">
+            <methodElementProperty xmi:id="_wB534DgyEeSw2dACrKM1QA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JHVqIHmbEd6IMtncZulwRw" name="paad_content_package" guid="_JHVqIHmbEd6IMtncZulwRw" presentationName="PAS">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_OlqUAXmbEd6IMtncZulwRw" name="stakeholders" guid="_OlqUAXmbEd6IMtncZulwRw" presentationName="Stakeholders" briefDescription="Esse papel pode ser definido como qualquer pessoa que é afetada em termos materiais pelos resultados do projeto.">
+            <presentation xmi:id="-eRy8gq6Re892Px71w-Yr5A" href="uma://-eRy8gq6Re892Px71w-Yr5A#-eRy8gq6Re892Px71w-Yr5A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_OlqUAnmbEd6IMtncZulwRw" name="gerente" guid="_OlqUAnmbEd6IMtncZulwRw" presentationName="Gerente de Projetos" briefDescription="O Gerente é o papel que aloca recursos, ajusta as prioridades, coordena interações com clientes e usuários e busca manter a equipe concentrada em atingir os objetivos do projeto. Além disso, o Gerente de Projetos estabelece um conjunto de práticas que garantem a integridade e a qualidade dos artefatos do projeto." responsibleFor="_KH53kHpREd6pL8HyHB0u_w _KH53knpREd6pL8HyHB0u_w _KH53l3pREd6pL8HyHB0u_w _KH53mHpREd6pL8HyHB0u_w">
+            <presentation xmi:id="-mZBMGL6XyZy5RZsy8F7Ncg" href="uma://-mZBMGL6XyZy5RZsy8F7Ncg#-mZBMGL6XyZy5RZsy8F7Ncg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KH53kHpREd6pL8HyHB0u_w" name="ata_de_reuniao" guid="_KH53kHpREd6pL8HyHB0u_w" presentationName="Ata de Reunião" briefDescription="A Ata de Reunião é o documento que descreve os principais aspectos acordados durante as reuniões com o cliente ou entre os membros da equipe de desenvolvimento." templates="_7AIwQHuaEd64wKJP97lW7A">
+            <presentation xmi:id="--c1pwEur_D72k54S8_y6NQ" href="uma://--c1pwEur_D72k54S8_y6NQ#--c1pwEur_D72k54S8_y6NQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KH53kXpREd6pL8HyHB0u_w" name="diagrama_geral_cdus" guid="_KH53kXpREd6pL8HyHB0u_w" presentationName="Diagrama Geral de Casos de Uso (UML)" briefDescription="O Diagrama Geral de Casos de Uso é a representação ilustrada das funcionalidades do sistema e os atores que as executam. Esse diagrama fornece uma visão geral das funcionalidades do sistema que serão detalhadas e implementadas." examples="_GAiGIHucEd64wKJP97lW7A">
+            <presentation xmi:id="--49mxNt3GeI_mc3I8lp1Yw" href="uma://--49mxNt3GeI_mc3I8lp1Yw#--49mxNt3GeI_mc3I8lp1Yw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KH53knpREd6pL8HyHB0u_w" name="doc_amb" guid="_KH53knpREd6pL8HyHB0u_w" presentationName="Documento de Ambiente" briefDescription="O Documento de Ambiente descreve o ambiente de desenvolvimento que dará suporte à execução das atividades do projeto. Esse documento fornece informações sobre o Sistema Operacional adotado e as ferramentas que serão utilizadas." templates="_I--CoHubEd64wKJP97lW7A"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KH53k3pREd6pL8HyHB0u_w" name="doc_arq" guid="_KH53k3pREd6pL8HyHB0u_w" presentationName="Documento de Arquitetura do Sistema" briefDescription="O Documento de arquitetura oferece a delimitação da arquitetura do sistema. Esse documento deve fornece a decomposição da visão, o agrupamento dos elementos e as interfaces entre esses principais agrupamentos. " templates="_N1MKsHubEd64wKJP97lW7A"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KH53lXpREd6pL8HyHB0u_w" name="doc_risco" guid="_KH53lXpREd6pL8HyHB0u_w" presentationName="Documento de Risco" briefDescription="O Documento de Risco descreve os riscos de projeto detectados, sua classificação por gravidade e a estratégia de atenuação e plano de contingência." templates="_TRFysHubEd64wKJP97lW7A"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KH53lnpREd6pL8HyHB0u_w" name="doc_visao" guid="_KH53lnpREd6pL8HyHB0u_w" presentationName="Documento de Visão" briefDescription="O Documento de visão oferece uma visão inicial do sistema. Esse documento deve ter a definição do escopo do sistema, as funcionalidades e restrições do sistema, o diagrama geral de casos de uso e a relação entre os casos de uso e funcionalidades. São informados, também, o cliente e os atores do sistema." templates="_YUjskHubEd64wKJP97lW7A">
+            <presentation xmi:id="-vqPsnCw9e74cpErrU83jmw" href="uma://-vqPsnCw9e74cpErrU83jmw#-vqPsnCw9e74cpErrU83jmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KH53l3pREd6pL8HyHB0u_w" name="plan_des_soft" guid="_KH53l3pREd6pL8HyHB0u_w" presentationName="Plano de Desenvolvimento de Software" briefDescription="O Plano de Desenvolvimento de Software define as atividades do desenvolvimento dentro das fases e iterações necessárias para a implementação do projeto. Ele descreve o plano de desenvolvimento que cobre o projeto como um todo." templates="_i0-XUHubEd64wKJP97lW7A"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KH53mHpREd6pL8HyHB0u_w" name="plan_iteracao" guid="_KH53mHpREd6pL8HyHB0u_w" presentationName="Plano de Iteração e Integração" briefDescription="O Plano de Iteração e Integração descreve os detalhes específicos de planejamento de cada iteração, incluindo cronograma, atividades e artefatos." templates="_n1xXsHubEd64wKJP97lW7A"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KH53mXpREd6pL8HyHB0u_w" name="prototipo_de_telas" guid="_KH53mXpREd6pL8HyHB0u_w" presentationName="Protótipos de Telas" briefDescription="Os protótipos de tela consistem em imagens que descrevem a interface  com o usuário do sistema, com o  propósito de fornecer ao cliente uma visão de como ele irá interagir com o sistema.">
+            <presentation xmi:id="-xFX8lEN4Ueb1B4UFhOAvGQ" href="uma://-xFX8lEN4Ueb1B4UFhOAvGQ#-xFX8lEN4Ueb1B4UFhOAvGQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bIu7UHpREd6pL8HyHB0u_w" name="codigos_fontes" guid="_bIu7UHpREd6pL8HyHB0u_w" presentationName="Códigos Fontes" briefDescription="Os códigos Fontes são a codificação dos casos de uso implementados em uma linguagem de programação específica. O código fonte do que foi implementado é disponibilizado no repositório de códigos para acesso de todos os participantes do projeto.">
+            <presentation xmi:id="-eepVhfuSkfih_QWP0HfbKg" href="uma://-eepVhfuSkfih_QWP0HfbKg#-eepVhfuSkfih_QWP0HfbKg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bIu7UXpREd6pL8HyHB0u_w" name="diagrama_de_classes" guid="_bIu7UXpREd6pL8HyHB0u_w" presentationName="Diagrama de Classes de Projeto (UML)" briefDescription="O Diagrama de Classes de Projeto é a representação ilustrada das classes que serão implementadas no projeto, com seus atributos, relacionamentos e operações." examples="_Zi8gYHudEd64wKJP97lW7A">
+            <presentation xmi:id="-ZSHZ95FvEn9jZStFlqErcA" href="uma://-ZSHZ95FvEn9jZStFlqErcA#-ZSHZ95FvEn9jZStFlqErcA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bI4FQHpREd6pL8HyHB0u_w" name="diagrama_interacao" guid="_bI4FQHpREd6pL8HyHB0u_w" presentationName="Diagrama de Interação de Objetos (UML) para o (s) Caso (s) de Uso (s) Implementado (s)" briefDescription="O Diagrama de Interação de Objetos ilustra as interações entre os objetos em uma determinada funcionalidade. Ele é imprescindível para a compreensão dessas interações e deve estar anexado ao Dumento de Especifcação de Caso de Uso do caso de uso ao quel se refere." examples="_66YwwHueEd64wKJP97lW7A">
+            <presentation xmi:id="-vzJ-sBAFYEs5PVo_5VgLoQ" href="uma://-vzJ-sBAFYEs5PVo_5VgLoQ#-vzJ-sBAFYEs5PVo_5VgLoQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bI4FQnpREd6pL8HyHB0u_w" name="especificacao_cdu" guid="_bI4FQnpREd6pL8HyHB0u_w" presentationName="Especificação de Caso de Uso" briefDescription="O Documento de Especificação de Caso de Uso fornece um detalhamento completo do caso de uso, que serve como orientação para a sua implementação. Esse detalhamento inclui as pré-condições, pós-condições, os fluxos principais, alternativos e de exceção, além dos diagramas de domínio, de classes de projeto e de interação de objetos. Na especificação são, também, apresentados os atores que executam a funcionalidade do caso de uso. &#xD;&#xA;&#xD;&#xA;" templates="_c2YR8HubEd64wKJP97lW7A">
+            <presentation xmi:id="-DI7Wz_o4cL26AJgRgXX6cw" href="uma://-DI7Wz_o4cL26AJgRgXX6cw#-DI7Wz_o4cL26AJgRgXX6cw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_7AIwQHuaEd64wKJP97lW7A" name="modelo_ata" guid="_7AIwQHuaEd64wKJP97lW7A" presentationName="Modelo de Ata de Reunião">
+            <presentation xmi:id="-zJVyOQIN1cEAAfhJ3QUINw" href="uma://-zJVyOQIN1cEAAfhJ3QUINw#-zJVyOQIN1cEAAfhJ3QUINw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_I--CoHubEd64wKJP97lW7A" name="modelo_doc_ambiente" guid="_I--CoHubEd64wKJP97lW7A" presentationName="Modelo de Documento de Ambiente">
+            <presentation xmi:id="-LTKEan0A6cwoOgrxqLA6dw" href="uma://-LTKEan0A6cwoOgrxqLA6dw#-LTKEan0A6cwoOgrxqLA6dw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_N1MKsHubEd64wKJP97lW7A" name="modelo_doc_arquitetura" guid="_N1MKsHubEd64wKJP97lW7A" presentationName="Modelo de Documento de Arquitetura">
+            <presentation xmi:id="-f1L6Fusybq-Ic5vSxGh35A" href="uma://-f1L6Fusybq-Ic5vSxGh35A#-f1L6Fusybq-Ic5vSxGh35A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_TRFysHubEd64wKJP97lW7A" name="modelo_doc_risco" guid="_TRFysHubEd64wKJP97lW7A" presentationName="Modelo de Documento de Risco">
+            <presentation xmi:id="-YmlGC7pMfyH1ORHfqtP8CQ" href="uma://-YmlGC7pMfyH1ORHfqtP8CQ#-YmlGC7pMfyH1ORHfqtP8CQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_YUjskHubEd64wKJP97lW7A" name="modelo_doc_visao" guid="_YUjskHubEd64wKJP97lW7A" presentationName="Modelo de Documento de Visão">
+            <presentation xmi:id="-iiWvKVNQg9CL6uxd1S7yDA" href="uma://-iiWvKVNQg9CL6uxd1S7yDA#-iiWvKVNQg9CL6uxd1S7yDA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_c2YR8HubEd64wKJP97lW7A" name="modelo_especificacao_cdu" guid="_c2YR8HubEd64wKJP97lW7A" presentationName="Modelo de Esoecificação de Caso de Uso">
+            <presentation xmi:id="-G5n72ize5lmD9CX_8uNuxQ" href="uma://-G5n72ize5lmD9CX_8uNuxQ#-G5n72ize5lmD9CX_8uNuxQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_i0-XUHubEd64wKJP97lW7A" name="modelo_plan_des_soft" guid="_i0-XUHubEd64wKJP97lW7A" presentationName="Modelo de Documento de Plano de Desenvolvimento de Software">
+            <presentation xmi:id="-dvwa8EjhSfsEdYWTslW56w" href="uma://-dvwa8EjhSfsEdYWTslW56w#-dvwa8EjhSfsEdYWTslW56w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_n1xXsHubEd64wKJP97lW7A" name="modelo_plano_iteracao" guid="_n1xXsHubEd64wKJP97lW7A" presentationName="Modelo de Plano de Iteração e Integração">
+            <presentation xmi:id="-nnjvG-AIPmilRllaWYJ3Tw" href="uma://-nnjvG-AIPmilRllaWYJ3Tw#-nnjvG-AIPmilRllaWYJ3Tw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_GAiGIHucEd64wKJP97lW7A" name="exemplo_diagrama_geral_cdus" guid="_GAiGIHucEd64wKJP97lW7A" presentationName="Exemplo de Diagrama Geral de Casos de Uso" briefDescription="O Diagrama Geral de Casos de Uso ilustra os Casos de Uso do Sistema e o (s) ator (es) que os executa (m). O exemplo aqui utilizado é retirado da página do professor Fellipe Aleixo, que pode ser acessada através do link fornecido abaixo.">
+            <presentation xmi:id="-n6uY8m8nIN4GZL2dyp-64g" href="uma://-n6uY8m8nIN4GZL2dyp-64g#-n6uY8m8nIN4GZL2dyp-64g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_Zi8gYHudEd64wKJP97lW7A" name="exemplo_diagrama_classes" guid="_Zi8gYHudEd64wKJP97lW7A" presentationName="Exemplo de Diagrama de Classes de Projeto (UML)" briefDescription="O Diagrama de Classes de Projeto (UML) ilustra as classes que serão implementadas, com seus atributos, métodos e relacionamentos. O exemplo utilizado aqui é retirado da página do professor Fellipe Aleixo, que pode ser acessada através do link abaixo.">
+            <presentation xmi:id="-E87w86RGEBjCokWwFeATZg" href="uma://-E87w86RGEBjCokWwFeATZg#-E87w86RGEBjCokWwFeATZg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_66YwwHueEd64wKJP97lW7A" name="exemplo_diagrama_interacao" guid="_66YwwHueEd64wKJP97lW7A" presentationName="Exemplo de Diagrama de Interação entre Objetos (UML)" briefDescription="O Diagrama de Interação de Objetos ilustra as interações entre as classes a serem implementadas.">
+            <presentation xmi:id="-hsJgvO_tquWPVid1sg-S2w" href="uma://-hsJgvO_tquWPVid1sg-S2w#-hsJgvO_tquWPVid1sg-S2w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_1hmzUH7BEd6MaYaawFYtMQ" name="analista" guid="_1hmzUH7BEd6MaYaawFYtMQ" presentationName="Analista" briefDescription="O Analista lidera e coordena a identificação de requisitos e a modelagem de casos de uso, delimitando o sistema e definindo sua funcionalidade, estabelecendo, por exemplo, quais são os atores e casos de uso existentes e como eles interagem." responsibleFor="_KH53kXpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w _KH53lXpREd6pL8HyHB0u_w">
+            <presentation xmi:id="--6pTkJRKR2jWjlSWNgMmDA" href="uma://--6pTkJRKR2jWjlSWNgMmDA#--6pTkJRKR2jWjlSWNgMmDA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_3b8ZEH7BEd6MaYaawFYtMQ" name="implementador_testador" guid="_3b8ZEH7BEd6MaYaawFYtMQ" presentationName="Implementador e Testador" briefDescription="O Implementador é responsável por desenvolver e testar componentes de acordo com os padrões  adotados para o projeto, para fins de integração com subsistemas maiores. Esse papel também é responsável por desenvolver e testar os componentes e os subsistemas correspondentes." responsibleFor="_bIu7UHpREd6pL8HyHB0u_w">
+            <presentation xmi:id="-wHfxUpGDRz2I5t2gdpBwCA" href="uma://-wHfxUpGDRz2I5t2gdpBwCA#-wHfxUpGDRz2I5t2gdpBwCA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_5008AH7BEd6MaYaawFYtMQ" name="projetista" guid="_5008AH7BEd6MaYaawFYtMQ" presentationName="Projetista" briefDescription="O Projetista define as responsabilidades, operações, atributos e relacionamentos de uma ou várias classes e determina como eles serão ajustados para o ambiente de implementação. É responsável, tembém, pelos pacotes ou subsistemas do projeto, incuindo todas as suas classes." responsibleFor="_bIu7UXpREd6pL8HyHB0u_w _bI4FQHpREd6pL8HyHB0u_w _bI4FQnpREd6pL8HyHB0u_w">
+            <presentation xmi:id="-FeMce2FJEdQ1D4GiLhuxHw" href="uma://-FeMce2FJEdQ1D4GiLhuxHw#-FeMce2FJEdQ1D4GiLhuxHw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_9f0nEH7BEd6MaYaawFYtMQ" name="designer" guid="_9f0nEH7BEd6MaYaawFYtMQ" presentationName="Designer" briefDescription="O Designer é o papel responsável por definir a interface gráfica do sistema, de acordo com as necessidades e preferências do usuário, buscando seguir princípios fundamentais de funcionalidade e usabilidade." responsibleFor="_KH53mXpREd6pL8HyHB0u_w">
+            <presentation xmi:id="-SHMdTnkdNHMWEgoHCo-uYw" href="uma://-SHMdTnkdNHMWEgoHCo-uYw#-SHMdTnkdNHMWEgoHCo-uYw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_ecteEH7yEd66CsJhS3fIDw" name="arquiteto" guid="_ecteEH7yEd66CsJhS3fIDw" presentationName="Arquiteto" briefDescription="O Arquiteto é o responsável por definir a arquitetura do sistema, o que inclui tomar as principais decisões técnicas que vão delimitar o projeto e a implementação do sistema como um todo." responsibleFor="_KH53k3pREd6pL8HyHB0u_w">
+            <presentation xmi:id="-XC9QmKICtyJOojdOXhpk_g" href="uma://-XC9QmKICtyJOojdOXhpk_g#-XC9QmKICtyJOojdOXhpk_g"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_WUAAkH-tEd62TNYWta-H0w" name="gerencia_todas_as_fases" guid="_WUAAkH-tEd62TNYWta-H0w" presentationName="Gerência de Processo Todas as Fases" briefDescription="Agrupamento das atividades referentes à disciplina de Gerência de Processo em todas as fases.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ucgRoH-tEd62TNYWta-H0w" name="1_especificar_so" guid="_ucgRoH-tEd62TNYWta-H0w" presentationName="Especificar Sistema Operacional" briefDescription="Definir o Sistema Operacional que será utilizado no desenvolvimento." performedBy="_OlqUAnmbEd6IMtncZulwRw" mandatoryInput="_KH53k3pREd6pL8HyHB0u_w _KH53lXpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w">
+            <presentation xmi:id="-92HAftwyvR28xqkIrZ-GKA" href="uma://-92HAftwyvR28xqkIrZ-GKA#-92HAftwyvR28xqkIrZ-GKA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ucgRoX-tEd62TNYWta-H0w" name="2_especificar_ferramentas" guid="_ucgRoX-tEd62TNYWta-H0w" presentationName="Especificar Ferramentas de Escritório" briefDescription="Especificação das Ferramentas que serão utilizadas no desenvolvimento." performedBy="_OlqUAnmbEd6IMtncZulwRw" mandatoryInput="_KH53k3pREd6pL8HyHB0u_w _KH53lXpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ucgRon-tEd62TNYWta-H0w" name="3_especif_fer_ger" guid="_ucgRon-tEd62TNYWta-H0w" presentationName="Especificar Ferramenta da Gerência" briefDescription="Decide-se por uma ferramenta de gerenciamento do projeto para monitorar e coordenar o desenvolvimento." performedBy="_OlqUAnmbEd6IMtncZulwRw"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ucgRpH-tEd62TNYWta-H0w" name="4_inst_ferramentas" guid="_ucgRpH-tEd62TNYWta-H0w" presentationName="Instalar e/ou Configurar as Ferramentas" briefDescription="Decididas as ferramentas a serem utilizadas, as mesmas são instaladas no ambiente de desenvolvimento." performedBy="_OlqUAnmbEd6IMtncZulwRw">
+            <methodElementProperty xmi:id="_1KygwDbTEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ucgRpX-tEd62TNYWta-H0w" name="5_escrever_doc_amb" guid="_ucgRpX-tEd62TNYWta-H0w" presentationName="Escrever Documento de Ambiente" briefDescription="Especificadas e instaladas todas as ferramentas necessárias, escreve-se o documento de ambiente." performedBy="_OlqUAnmbEd6IMtncZulwRw" output="_KH53knpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_2a3BgDbTEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ePLau40uWrx42c_4ZVc42w" href="uma://-ePLau40uWrx42c_4ZVc42w#-ePLau40uWrx42c_4ZVc42w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ucgRpn-tEd62TNYWta-H0w" name="6_plan_reunioes_cliente" guid="_ucgRpn-tEd62TNYWta-H0w" presentationName="Planejar Reuniões com o Cliente" briefDescription="São planejadas reuniões com o cliente para expor os resultados da iteração." performedBy="_OlqUAnmbEd6IMtncZulwRw">
+            <methodElementProperty xmi:id="_3cdBYDbTEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ucgRp3-tEd62TNYWta-H0w" name="7_executar_reunioes" guid="_ucgRp3-tEd62TNYWta-H0w" presentationName="Executar Reuniões com o Cliente" briefDescription="São realizadas reuniões com o cliente ao final da iteração para apresentação dos resultados e coleta do feedback." performedBy="_OlqUAnmbEd6IMtncZulwRw" mandatoryInput="_KH53kXpREd6pL8HyHB0u_w _KH53knpREd6pL8HyHB0u_w _KH53k3pREd6pL8HyHB0u_w _KH53lXpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_4ZhtoDbTEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+            <presentation xmi:id="-KOS4SV-tiXm3Fo-OQ6NV1g" href="uma://-KOS4SV-tiXm3Fo-OQ6NV1g#-KOS4SV-tiXm3Fo-OQ6NV1g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ucgRqH-tEd62TNYWta-H0w" name="8_registrar_em_ata" guid="_ucgRqH-tEd62TNYWta-H0w" presentationName="Registrar Reuniões em Ata de Reunião" briefDescription="Todas as ocorrências durante a reunião são registrada em Ata de Reunião." performedBy="_OlqUAnmbEd6IMtncZulwRw" output="_KH53kHpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_5elRMDbTEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+            <presentation xmi:id="-t_vnmD85vc-aGbMVHw_cWA" href="uma://-t_vnmD85vc-aGbMVHw_cWA#-t_vnmD85vc-aGbMVHw_cWA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ucgRqX-tEd62TNYWta-H0w" name="9_executar_requisitos" guid="_ucgRqX-tEd62TNYWta-H0w" presentationName="Execução da Disciplina de Requisitos" briefDescription="Essa atividade ocorre em paralelo com a execução da reunião com o cliente e tem o objetivo de observar se os requisitos mapeados estão em conformidade com os requsisitos do cliente." performedBy="_1hmzUH7BEd6MaYaawFYtMQ" mandatoryInput="_KH53lXpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w _KH53kXpREd6pL8HyHB0u_w" output="_KH53lXpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w _KH53kXpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_6zf1sDbTEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+            <presentation xmi:id="-pi82OfbIylFS8GuHz6tz8A" href="uma://-pi82OfbIylFS8GuHz6tz8A#-pi82OfbIylFS8GuHz6tz8A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ucgRqn-tEd62TNYWta-H0w" name="12_apresentar_artefatos" guid="_ucgRqn-tEd62TNYWta-H0w" presentationName="Apresentar Artefatos ao Cliente" briefDescription="Os artefatos gerados durante a fase de Concepção são, nessa atividade, apresentados ao cliente." performedBy="_OlqUAnmbEd6IMtncZulwRw" mandatoryInput="_KH53kXpREd6pL8HyHB0u_w _KH53knpREd6pL8HyHB0u_w _KH53k3pREd6pL8HyHB0u_w _KH53lXpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w _KH53l3pREd6pL8HyHB0u_w _KH53mHpREd6pL8HyHB0u_w _KH53mXpREd6pL8HyHB0u_w" output="_KH53kHpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="__SphkDbTEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ucgRrH-tEd62TNYWta-H0w" name="13_exec_req_doc_visao" guid="_ucgRrH-tEd62TNYWta-H0w" presentationName="Execução da Disciplina de Requisitos Sobre o Documento de Visão" briefDescription="A partir da análise do Documento de Visão, observa-se se o mesmo está em conformidade com os requisitos mapeados. Se houver alterações de requisitos ou necessidades de ajustes, essa atividade é realizada." performedBy="_1hmzUH7BEd6MaYaawFYtMQ" mandatoryInput="_KH53lnpREd6pL8HyHB0u_w _KH53kXpREd6pL8HyHB0u_w" output="_KH53lnpREd6pL8HyHB0u_w _KH53kXpREd6pL8HyHB0u_w"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ucgRrX-tEd62TNYWta-H0w" name="14_desenvolver_plan_des_soft" guid="_ucgRrX-tEd62TNYWta-H0w" presentationName="Desenvolver Plano de Desenvolvimento de Software (PDS)" briefDescription="De posse de todos os insumos necessários ao início do projeto, elabora-se o Plano de Desenvolvimento de Software." performedBy="_OlqUAnmbEd6IMtncZulwRw" mandatoryInput="_KH53kXpREd6pL8HyHB0u_w _KH53lXpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w" output="_KH53l3pREd6pL8HyHB0u_w"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ucgRrn-tEd62TNYWta-H0w" name="15_desenvolver_plan_iteracao" guid="_ucgRrn-tEd62TNYWta-H0w" presentationName="Desenvolver Plano de Iteração e Integração (PI&amp;I)" briefDescription="A partir das iterações definidas no Plano de Desenvolvimento de Software, elabora-se o Plano de Iteração e Integração para a próxima iteração do desenvolvimento." performedBy="_OlqUAnmbEd6IMtncZulwRw" mandatoryInput="_KH53kXpREd6pL8HyHB0u_w _KH53lXpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w _KH53l3pREd6pL8HyHB0u_w" output="_KH53mHpREd6pL8HyHB0u_w">
+            <presentation xmi:id="-mqZo_MDxtWMRuWwLXCbJ7Q" href="uma://-mqZo_MDxtWMRuWwLXCbJ7Q#-mqZo_MDxtWMRuWwLXCbJ7Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-KdJgX-zEd62TNYWta-H0w" name="16_especificar_ferramentas_desenv" guid="_-KdJgX-zEd62TNYWta-H0w" presentationName="Especificar Ferramentas Inerentes ao Desenvolvimento" briefDescription="São especificadas as ferramentas de desenvolvimento , que são as Integrated Development Environment (Ambiente de Desenvolvimento Integrado ou IDE), frameworks, bibliotecas (libs), forma de armazenamento persistente (Bancos de Dados, arquivos, XML, etc), software servidor (Servidor de Aplicação, Servidor HTTP, etc) e outros itens que por ventura a equipe venha a precisar." performedBy="_OlqUAnmbEd6IMtncZulwRw">
+            <methodElementProperty xmi:id="_DeEZIDbUEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-KmTcH-zEd62TNYWta-H0w" name="17_instalar_soft_bib" guid="_-KmTcH-zEd62TNYWta-H0w" presentationName="Instalar e/ou Configurar Softwares e Bibliotecas" briefDescription="Após especificadas as ferramentas necessárias ao desenvolvimento, as mesmas são instaladas no ambiente de desenvolvimento para serem utilizadas pela equipe. É importante que haja uma forma padrão de realização das tarefas utilizando as ferramentas." performedBy="_3b8ZEH7BEd6MaYaawFYtMQ">
+            <methodElementProperty xmi:id="_EjskcDbUEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-KmTcX-zEd62TNYWta-H0w" name="18_apresentar_implementacao" guid="_-KmTcX-zEd62TNYWta-H0w" presentationName="Apresentar Implementação Realizada" briefDescription="Apresentar ao cliente a implementação do caso de uso que foi realizada." performedBy="_OlqUAnmbEd6IMtncZulwRw" mandatoryInput="_bIu7UHpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_FfYJkDbUEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-KmTcn-zEd62TNYWta-H0w" name="19_revisar_plan_des_soft" guid="_-KmTcn-zEd62TNYWta-H0w" presentationName="Revisar Plano de Desenvolvimento de Software (PDS)" briefDescription="O macroplanejamento sofrerá mudanças e inclusão de informações não enxergadas inicialmente, gerando revisões no Plano de Desenvolvimento de Software(PDS). " performedBy="_OlqUAnmbEd6IMtncZulwRw" mandatoryInput="_KH53l3pREd6pL8HyHB0u_w" output="_KH53l3pREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_HCErYDbUEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+            <presentation xmi:id="-kh5lFg1tLhHarcU9aYAn0w" href="uma://-kh5lFg1tLhHarcU9aYAn0w#-kh5lFg1tLhHarcU9aYAn0w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_suYewn-0Ed62TNYWta-H0w" name="20_executar_reunioes_cliente" guid="_suYewn-0Ed62TNYWta-H0w" presentationName="Executar Reuniões com o Cliente ao Fim da Iteração com o Protótipo Desenvolvido" briefDescription="As reuniões na fase de Construção têm o propósito de apresentar o protótipo do sistema ao cliente." performedBy="_OlqUAnmbEd6IMtncZulwRw" mandatoryInput="_bIu7UHpREd6pL8HyHB0u_w" additionallyPerformedBy="_3b8ZEH7BEd6MaYaawFYtMQ">
+            <methodElementProperty xmi:id="_Iz84sDbUEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ouy3UHlfEd6Q9KdDavqEGw" name="21_identificar_ambiente" guid="_ouy3UHlfEd6Q9KdDavqEGw" presentationName="Identificar o Ambiente Necessário para o Funcionamento do Sistema a ser Implantado" briefDescription="Deve-se identificar os softwares necessários para que o sistema seja implantado e funcione normalmente, possivelmente num servidor do contratante." performedBy="_OlqUAnmbEd6IMtncZulwRw">
+            <methodElementProperty xmi:id="_KGLVkDbUEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wWzxkHlfEd6Q9KdDavqEGw" name="22_instalar_softwares" guid="_wWzxkHlfEd6Q9KdDavqEGw" presentationName="Instalar Softwares Identificados" briefDescription="Após identificados, os softwares devem ser instalados." performedBy="_3b8ZEH7BEd6MaYaawFYtMQ">
+            <methodElementProperty xmi:id="_LGzsIDbUEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-y-gMHlfEd6Q9KdDavqEGw" name="23_implantar_sistema" guid="_-y-gMHlfEd6Q9KdDavqEGw" presentationName="Implantar o Sistema" briefDescription="O sistema, após a instalação dos softwares necessários, é implantado." performedBy="_3b8ZEH7BEd6MaYaawFYtMQ">
+            <methodElementProperty xmi:id="_MJpCIDbUEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CT1X0HlgEd6Q9KdDavqEGw" name="24_apresentar_sistema" guid="_CT1X0HlgEd6Q9KdDavqEGw" presentationName="Reunir-se para Apresentar o Sistema Final" briefDescription="Essa é a reunião final com o cliente, na qual o sistema é apresentado." performedBy="_OlqUAnmbEd6IMtncZulwRw" mandatoryInput="_bIu7UHpREd6pL8HyHB0u_w _bIu7UXpREd6pL8HyHB0u_w _KH53kXpREd6pL8HyHB0u_w _bI4FQHpREd6pL8HyHB0u_w _KH53knpREd6pL8HyHB0u_w _KH53k3pREd6pL8HyHB0u_w _KH53lXpREd6pL8HyHB0u_w _KH53lnpREd6pL8HyHB0u_w _bI4FQnpREd6pL8HyHB0u_w _KH53l3pREd6pL8HyHB0u_w _KH53mHpREd6pL8HyHB0u_w _KH53mXpREd6pL8HyHB0u_w" output="_KH53kHpREd6pL8HyHB0u_w">
+            <methodElementProperty xmi:id="_NPJ4sDbUEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NYibYHlgEd6Q9KdDavqEGw" name="25_nova_iteracao_ajustes" guid="_NYibYHlgEd6Q9KdDavqEGw" presentationName="Nova Iteração para Ajustes" briefDescription="Caso existam discordâncias, uma nova iteração é requerida para que sejam realizados os ajustes, essa nova iteração pode durar muito pouco, cerca de um ou dois dias." performedBy="_ecteEH7yEd66CsJhS3fIDw _3b8ZEH7BEd6MaYaawFYtMQ _5008AH7BEd6MaYaawFYtMQ">
+            <methodElementProperty xmi:id="_OOIpcDbUEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_STi80HlgEd6Q9KdDavqEGw" name="26_comemoracao_fim" guid="_STi80HlgEd6Q9KdDavqEGw" presentationName="Realizar Comemoração de Fim de Projeto" briefDescription="Ao final do projeto é realizada uma comemoração com a equipe." performedBy="_1hmzUH7BEd6MaYaawFYtMQ _5008AH7BEd6MaYaawFYtMQ _ecteEH7yEd66CsJhS3fIDw _9f0nEH7BEd6MaYaawFYtMQ _OlqUAnmbEd6IMtncZulwRw _3b8ZEH7BEd6MaYaawFYtMQ">
+            <methodElementProperty xmi:id="_PN_j8DbUEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_huuBYJJ6Ed66foGdT4dnPg" name="ms_project" guid="_huuBYJJ6Ed66foGdT4dnPg" presentationName="Arquivo do MS Project " briefDescription="Arquivo do MS Project gerado a partir dos elementos do PAS.">
+            <presentation xmi:id="-bPsOvW29SLgviB-OnXONVg" href="uma://-bPsOvW29SLgviB-OnXONVg#-bPsOvW29SLgviB-OnXONVg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pTf_IDbSEeSk0K6nPOXZgA" name="10_Planejar_reunioes_diarias_equipe" guid="_pTf_IDbSEeSk0K6nPOXZgA" presentationName="Planejar Reuniões diárias para equipe" briefDescription="São planejadas reuniões com a quipe para expor os resultados da iteração e pontuar as atidades da Sprint, organizando a prioridade de cada uma para a iteração.">
+            <methodElementProperty xmi:id="_yZf6UDbSEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_zBa18DbSEeSk0K6nPOXZgA" name="11_executar_reuniao_diaria_com_equipe" guid="_zBa18DbSEeSk0K6nPOXZgA" presentationName="Executar Reuniões com equipe" briefDescription="São realizadas reuniões com a aquipe do PDS ao final da iteração para apresentação dos resultados e coleta do feedback e planejada como será a próxima SPRINT.">
+            <methodElementProperty xmi:id="_4Ni8kDbSEeSk0K6nPOXZgA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_PNdyjXc4Ed6LBuiIOANIVw" name="CapabilityPatterns" guid="_PNdyjXc4Ed6LBuiIOANIVw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_PNdyjnc4Ed6LBuiIOANIVw" name="DeliveryProcesses" guid="_PNdyjnc4Ed6LBuiIOANIVw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_f7tAMH_lEd62TNYWta-H0w" href="uma://_f7tAMH_lEd62TNYWta-H0w#_f7tAMH_lEd62TNYWta-H0w"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_PNdyj3c4Ed6LBuiIOANIVw" name="ProcessContributions" guid="_PNdyj3c4Ed6LBuiIOANIVw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SlP_Ns9dv74VWXaGe2dRLg" name="impl_validacao,_n2YI8HlcEd6Q9KdDavqEGw" guid="-SlP_Ns9dv74VWXaGe2dRLg" changeDate="2009-08-02T23:30:38.839-0300">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>As atividades acontecem basicamente em dois momentos. No primeiro momento são&#xD;
+    planejados e executados testes no ambiente de desenvolvimento (testes alfa) e no segundo, o sistema&amp;nbsp;é implantado e&#xD;
+    são executados testes de usabilidade e testes beta (teste no ambiente do cliente). Ao final,&amp;nbsp;é gerado um relatório&#xD;
+    com as informações coletadas nos testes.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Encontrando erros após a execução dos testes alfa e/ou beta, dependendo de sua&#xD;
+    natuteza, a correção deverá ser feita na modelagem ou nos &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/codigos_fontes_9318F22A.html&quot; guid=&quot;_bIu7UHpREd6pL8HyHB0u_w&quot;>Códigos Fontes&lt;/a>. No caso&#xD;
+    de uma remodelagem, as disciplinas de requisitos e análise e projeto são executadas e, ao final, realizam-se novamente&#xD;
+    os referidos testes.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Já no caso de problemas nos &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/codigos_fontes_9318F22A.html&quot; guid=&quot;_bIu7UHpREd6pL8HyHB0u_w&quot;>Códigos Fontes&lt;/a>, uma&#xD;
+    nova execução da disciplina de implementação e testes deverá sanar o problema. São realizadas tantas iterações quantas&#xD;
+    forem necessárias, até que o uso do sistema seja aprovado pelo cliente.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

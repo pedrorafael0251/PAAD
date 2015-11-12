@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FeMce2FJEdQ1D4GiLhuxHw" name="projetista,_5008AH7BEd6MaYaawFYtMQ" guid="-FeMce2FJEdQ1D4GiLhuxHw" changeDate="2009-08-02T00:11:42.087-0300">
+  <skills>&lt;p>&#xD;
+    O Projetista deve ter conhecimentos práticos de:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Técnicas de modelagem de casos de uso&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Requisitos do sistema&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Técnicas de projeto de software, incluindo as técnicas de análise e projeto orientado a objetos e a Linguagem de&#xD;
+        Modelagem Unificada (UML)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Tecnologias com as quais o sistema será implementado&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    O Projetista deve também estar a par da arquitetura do sistema, através do &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/doc_arq_97F75231.html&quot; guid=&quot;_KH53k3pREd6pL8HyHB0u_w&quot;>Documento de Arquitetura do&#xD;
+    Sistema&lt;/a>.&#xD;
+&lt;/p></skills>
+</org.eclipse.epf.uma:RoleDescription>

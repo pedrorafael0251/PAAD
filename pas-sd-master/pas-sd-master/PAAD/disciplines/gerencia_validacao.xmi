@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-45Xt1Ua2BJpBzUH2rbU1wA" name="gerencia_validacao,_qpfJwHlcEd6Q9KdDavqEGw" guid="-45Xt1Ua2BJpBzUH2rbU1wA" changeDate="2009-08-02T23:37:47.488-0300">
+  <mainDescription>&lt;p>&#xD;
+    Dentro dos três focos, as atividades são executadas da seguinte maneira:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Ambiente&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        O Gerente deve identificar os softwares necessários para que o sistema seja implantado e funcione normalmente,&#xD;
+        possivelmente num servidor do contratante. Após identificados, os softwares devem ser instalados e o sistema&#xD;
+        implantado. O &lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/doc_amb_2F1D7C6C.html&quot;&#xD;
+        guid=&quot;_KH53knpREd6pL8HyHB0u_w&quot;>Documento de Ambiente&lt;/a> para esta fase relata o ambiente de implantação, e não&#xD;
+        mais de desenvolvimento.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Cliente&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        A(s) Reunião(ões) com o cliente entregam o sistema completo em funcionamento implantado em ambiente desejado por&#xD;
+        ele. Caso haja satisfação, o projeto é finalizado. Caso existam discordâncias, uma nova iteração é requerida para&#xD;
+        que sejam realizados os ajustes, essa nova iteração pode durar muito pouco, cerca de um ou dois dias. E assim&#xD;
+        sucessivamente, até que seja entregue o produto e o cliente esteja satisfeito. Se nas fases anteriores, o processo&#xD;
+        se desenvolveu como proposto, não existirão grandes alterações identificadas e requeridas pelo cliente, afinal de&#xD;
+        contas ele vem acompanhando desde cedo cada apresentação de protótipo. Por não existirem grandes mudanças a serem&#xD;
+        realizadas durante essa fase, o &lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/doc_fdbk_FA786A65.html&quot;&#xD;
+        guid=&quot;_KH53lHpREd6pL8HyHB0u_w&quot;>Documento de Feedback&lt;/a> é dispensável.&amp;nbsp;&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Projeto&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        Após várias alterações no cronograma, durante esta fase pouco será alterado. O sistema já deve estar maduro e a&#xD;
+        finalização do projeto é dada como certa. As iterações finais já devem planejar, inclusive, uma comemoração para o&#xD;
+        fim do projeto.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
